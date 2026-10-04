@@ -23,6 +23,10 @@ icons/              Logo e iconos
 - **Contenido**: cada entrada de `data/palabras.json` tiene `dia`, `orden`, `palabra`, `hoy`, `otrora`, `distractores` (3), `explicacion`, `epoca` y `fuente`. Cuando se acaban los días con contenido, el ciclo vuelve a empezar. Para ampliar el juego, basta con añadir días.
 - **Modo prueba**: `?dia=5` en la URL carga el día 5. Se juega en memoria, no altera las estadísticas y se puede repetir.
 
+## Almanaque
+
+Otrora forma parte de [Almanaque](https://joseleking.github.io/Almanaque/). `volver-almanaque.js` es una copia del de Almanaque (`para-los-juegos/`): si se entra desde allí, muestra la franja «☜ Regresar al Almanaque» y el botón de volver de la pantalla final. Al terminar la partida del día, `js/app.js` llama a `window.almanaqueHecho({ aciertos, total, racha })` para que la hoja salga como «Hecho» con el resultado. En modo prueba no avisa.
+
 ## Probar en local
 
 El service worker y `fetch` necesitan un servidor; abrir `index.html` con doble clic no basta.

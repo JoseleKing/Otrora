@@ -128,6 +128,21 @@
   const respuestas = () => estado.partida.respuestas;
   const partidaTerminada = () => respuestas().length >= palabras.length;
 
+  // Con la partida de hoy terminada, la hoja de Otrora sale como «Hecho» en Almanaque,
+  // con los aciertos del día y la racha (ver volver-almanaque.js).
+  function avisarAlmanaque() {
+    if (modoPrueba || !partidaTerminada()) return;
+    const avisar = () => window.almanaqueHecho && window.almanaqueHecho({
+      aciertos: respuestas().filter((r) => r && r.acierto).length,
+      total: palabras.length,
+      racha: rachaVisible()
+    });
+    // app.js va antes que volver-almanaque.js (los dos con defer): si aún no existe,
+    // se espera a DOMContentLoaded, que llega después de todos los scripts con defer.
+    if (window.almanaqueHecho) avisar();
+    else document.addEventListener('DOMContentLoaded', avisar, { once: true });
+  }
+
   function registrarFinal() {
     if (modoPrueba) return;
     const s = estado.stats;
@@ -196,6 +211,7 @@
     respuestas()[indice] = r;
     if (partidaTerminada()) registrarFinal();
     guardar();
+    avisarAlmanaque();
     pintarProgreso();
     revelar(r, true);
   }
@@ -437,6 +453,7 @@
       mostrarPregunta(0);
     });
 
+    avisarAlmanaque(); // por si se abre con la partida de hoy ya terminada
     await esperarPortada();
     empezar();
     cerrarPortada();

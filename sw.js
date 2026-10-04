@@ -3,7 +3,7 @@
 // llega en cuanto hay conexión) y caché como respaldo sin conexión.
 // Al añadir archivos nuevos a la lista, sube el número de VERSION.
 
-const VERSION = 'otrora-v1';
+const VERSION = 'otrora-v2';
 const CACHE_FUENTES = 'otrora-fuentes';
 
 const ARCHIVOS = [
@@ -11,6 +11,7 @@ const ARCHIVOS = [
   'index.html',
   'css/estilos.css',
   'js/app.js',
+  'volver-almanaque.js',
   'data/palabras.json',
   'manifest.json',
   'icons/otrora-logo.svg',
