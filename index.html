@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Otrora</title>
+  <meta name="description" content="Lo que las palabras fueron otrora. Un juego diario sobre palabras del español que cambiaron de significado.">
+  <meta name="theme-color" content="#F2EADB">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="icons/otrora-logo.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Otrora">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="css/estilos.css">
+  <script>
+    // Aplica el tema guardado antes de pintar, para evitar un parpadeo.
+    try {
+      var t = localStorage.getItem('otrora:tema');
+      if (t === 'claro' || t === 'oscuro') document.documentElement.dataset.theme = t === 'claro' ? 'light' : 'dark';
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <button class="boton-ayuda" id="boton-ayuda" type="button" aria-label="Cómo se juega">?</button>
+  <button class="boton-tema" id="boton-tema" type="button" aria-label="Cambiar entre modo claro y oscuro">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 0 18V3z" fill="currentColor"/><circle cx="12" cy="12" r="8.25" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>
+  </button>
+
+  <div class="portada" id="portada" aria-label="Otrora">
+    <svg class="logo" viewBox="30 25 60 70" aria-hidden="true">
+      <path class="logo-o" fill-rule="evenodd" d="M32,60 a28,33 0 1,0 56,0 a28,33 0 1,0 -56,0 Z M44,60 a16,28 0 1,0 32,0 a16,28 0 1,0 -32,0 Z"/>
+      <path class="logo-reloj" d="M51,43 H69 C69,52 61,56 61,60 C61,64 69,68 69,77 H51 C51,68 59,64 59,60 C59,56 51,52 51,43 Z"/>
+    </svg>
+    <h1 class="titulo">Otrora</h1>
+    <p class="error" id="error-carga" hidden></p>
+  </div>
+
+  <div class="aviso-prueba" id="aviso-prueba" hidden></div>
+
+  <main>
+    <!-- Juego -->
+    <section class="pantalla pantalla-juego" id="pantalla-juego" aria-labelledby="palabra" hidden>
+      <header class="cabecera-juego">
+        <span class="dia-etiqueta" id="juego-dia">Día —</span>
+        <ol class="progreso" id="progreso" aria-label="Progreso"></ol>
+      </header>
+
+      <div class="tarjeta-palabra">
+        <p class="numero-palabra" id="numero-palabra"></p>
+        <h2 class="palabra" id="palabra" tabindex="-1"></h2>
+        <p class="hoy"><span class="hoy-etiqueta">Hoy</span> <span id="hoy"></span></p>
+      </div>
+
+      <p class="pregunta">¿Qué significaba <em>otrora</em>?</p>
+      <div class="opciones" id="opciones" role="group" aria-label="Opciones"></div>
+
+      <div class="ficha" id="ficha" aria-live="polite">
+        <div class="ficha-plegable">
+          <article class="ficha-interior">
+            <p class="veredicto" id="veredicto"></p>
+            <p class="entrada">
+              <span class="entrada-lema" id="ficha-lema"></span>
+              <abbr class="marca-ant" title="antiguo">ant.</abbr>
+              <span class="entrada-def" id="ficha-def"></span>
+            </p>
+            <p class="explicacion" id="ficha-explicacion"></p>
+            <dl class="ficha-datos">
+              <div><dt>Época</dt><dd id="ficha-epoca"></dd></div>
+              <div><dt>Fuente</dt><dd id="ficha-fuente"></dd></div>
+            </dl>
+          </article>
+          <button class="boton boton-principal" id="boton-siguiente" type="button">Siguiente</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final -->
+    <section class="pantalla pantalla-final" id="pantalla-final" aria-labelledby="titulo-final" hidden>
+      <p class="dia-etiqueta" id="final-dia">Día —</p>
+      <h2 class="titulo-final" id="titulo-final" tabindex="-1"></h2>
+      <p class="relojes" id="relojes" role="img"></p>
+      <p class="puntuacion" id="puntuacion"></p>
+
+      <ol class="repaso" id="repaso"></ol>
+
+      <dl class="estadisticas">
+        <div><dt>Racha</dt><dd id="est-racha">0</dd></div>
+        <div><dt>Mejor racha</dt><dd id="est-mejor">0</dd></div>
+        <div><dt>Partidas</dt><dd id="est-partidas">0</dd></div>
+        <div><dt>Aciertos</dt><dd id="est-aciertos">0</dd></div>
+      </dl>
+
+      <button class="boton boton-principal" id="boton-compartir" type="button">Compartir</button>
+
+      <p class="cuenta-atras">Nuevas palabras en <span id="cuenta-atras">--:--:--</span></p>
+      <button class="boton boton-secundario" id="boton-repetir" type="button" hidden>Repetir día (modo prueba)</button>
+    </section>
+  </main>
+
+  <dialog class="hoja" id="bienvenida" aria-labelledby="bienvenida-titulo">
+    <div class="hoja-asa" aria-hidden="true"></div>
+    <h2 class="hoja-titulo" id="bienvenida-titulo">Lo que las palabras fueron</h2>
+    <div class="hoja-texto">
+      <p>Las palabras no se están quietas. Pasan de boca en boca y de siglo en siglo, y en cada viaje pierden algo y ganan algo: un matiz, un prejuicio, una broma que se vuelve seria o un uso solemne que acaba en la calle.</p>
+      <p>Las decimos a diario sin sospechar que bajo cada una late otra más antigua, como una ciudad levantada sobre otra ciudad. Basta escarbar un poco para oír lo que fueron otrora.</p>
+    </div>
+    <hr class="filete">
+    <h3 class="hoja-subtitulo">Cómo se juega</h3>
+    <ol class="hoja-pasos">
+      <li>Cada día hay <b>tres palabras</b>, con el sentido que tienen hoy.</li>
+      <li>Elige qué significaban <em>otrora</em> entre cuatro opciones.</li>
+      <li>Al responder descubrirás cómo y por qué cambiaron.</li>
+      <li>Comparte tu resultado y vuelve mañana: las palabras se renuevan a medianoche.</li>
+    </ol>
+    <button class="boton boton-principal" id="boton-empezar" type="button">Empezar</button>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>

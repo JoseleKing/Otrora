@@ -1,0 +1,311 @@
+[
+  {
+    "dia": 1, "orden": 1,
+    "palabra": "siniestro",
+    "hoy": "funesto, de mal agüero; también, catástrofe",
+    "otrora": "izquierdo",
+    "distractores": ["torcido, contrahecho", "oculto, secreto", "que mira de reojo"],
+    "explicacion": "Viene del latín sinister, «izquierdo». La mano izquierda se asoció desde antiguo con la torpeza y el mal presagio, y de ahí el adjetivo pasó a significar «funesto» y, ya como sustantivo, «desgracia o catástrofe». El sentido de «izquierdo» sigue en el diccionario y pervive en la expresión «a diestro y siniestro».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. siniestro; etimología latina (sinister)"
+  },
+  {
+    "dia": 1, "orden": 2,
+    "palabra": "formidable",
+    "hoy": "magnífico, estupendo; también, enorme",
+    "otrora": "que infunde miedo",
+    "distractores": ["de bella forma o figura", "que se puede moldear", "solemne, ceremonioso"],
+    "explicacion": "Procede del latín formidabilis, derivado de formido, «miedo, espanto». Primero calificaba lo temible por su tamaño o su fuerza; de lo «tremendamente grande» se pasó a lo «extraordinario» y, por último, a un simple elogio. El diccionario conserva aún el sentido de «muy temible».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. formidable; etimología latina (formidabilis, formido)"
+  },
+  {
+    "dia": 1, "orden": 3,
+    "palabra": "bufete",
+    "hoy": "despacho de un abogado",
+    "otrora": "mesa de escribir con cajones",
+    "distractores": ["arcón para guardar documentos", "estante para libros", "atril alto de escribano"],
+    "explicacion": "Es un préstamo del francés buffet. En español designó primero un mueble: la mesa de escribir con cajones. Por metonimia, el nombre pasó de la mesa al despacho donde trabaja el abogado y, por extensión, a su firma.",
+    "epoca": "Español clásico",
+    "fuente": "DLE, s. v. bufete; Diccionario de Autoridades"
+  },
+
+  {
+    "dia": 2, "orden": 1,
+    "palabra": "espabilar",
+    "hoy": "despertar, avivarse; darse prisa",
+    "otrora": "quitar el pabilo quemado a una vela",
+    "distractores": ["encender un candil de aceite", "sacudir el polvo de la ropa", "apagar la luz de un soplo"],
+    "explicacion": "Es variante de despabilar, formado sobre pabilo, la mecha de la vela. Al cortar la parte ya quemada del pabilo, la llama se avivaba y daba más luz. De ahí el sentido figurado de avivar el entendimiento o sacudirse el sueño y la pereza.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. despabilar y espabilar; Diccionario de Autoridades"
+  },
+  {
+    "dia": 2, "orden": 2,
+    "palabra": "bizarro",
+    "hoy": "raro, extravagante",
+    "otrora": "valiente, gallardo",
+    "distractores": ["presumido, vanidoso", "torpe, desmañado", "llegado de tierra extraña"],
+    "explicacion": "Llegó del italiano bizzarro, que allí significaba «iracundo, fogoso». En el español clásico se usó con admiración: bizarro era el soldado valiente y el caballero gallardo y generoso. El sentido de «raro, extravagante», hoy el más extendido, se debe al influjo del francés y del inglés bizarre, y durante mucho tiempo se tuvo por impropio.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. bizarro; Diccionario de Autoridades; etimología italiana (bizzarro)"
+  },
+  {
+    "dia": 2, "orden": 3,
+    "palabra": "paraninfo",
+    "hoy": "salón de actos de una universidad",
+    "otrora": "padrino de bodas",
+    "distractores": ["guardián de un templo", "pregonero de una villa", "monje encargado del coro"],
+    "explicacion": "Del griego paránymphos, el que acompañaba a los novios en la boda. En las universidades se llamó paraninfo a quien anunciaba el comienzo del curso con un discurso solemne. Con el tiempo, el nombre pasó de la persona a la sala donde se celebraba ese acto.",
+    "epoca": "Griego antiguo; universidades del Siglo de Oro",
+    "fuente": "DLE, s. v. paraninfo; etimología griega (paránymphos)"
+  },
+
+  {
+    "dia": 3, "orden": 1,
+    "palabra": "álgido",
+    "hoy": "dicho de un momento: culminante, decisivo",
+    "otrora": "muy frío",
+    "distractores": ["doloroso, penoso", "pálido, sin color", "agrio, áspero al gusto"],
+    "explicacion": "Viene del latín algidus, «frío». La medicina del siglo XIX hablaba del «período álgido» de enfermedades como el cólera: la fase de frío intenso, que solía ser también la más grave. Como esa fase era la crítica, álgido se reinterpretó como «culminante», sentido que hoy predomina y que el diccionario ya recoge.",
+    "epoca": "Latín clásico; medicina del siglo XIX",
+    "fuente": "DLE, s. v. álgido; etimología latina (algidus)"
+  },
+  {
+    "dia": 3, "orden": 2,
+    "palabra": "librería",
+    "hoy": "tienda donde se venden libros",
+    "otrora": "biblioteca",
+    "distractores": ["imprenta", "taller de encuadernación", "oficio de copista"],
+    "explicacion": "Durante siglos, librería fue el lugar o el mueble donde se guardaban los libros, es decir, una biblioteca. En el Quijote, el cura y el barbero hacen el famoso escrutinio de la librería del hidalgo, que no era ninguna tienda. El sentido comercial acabó imponiéndose, aunque el de «biblioteca» sigue en el diccionario.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. librería; Cervantes, Quijote, I, cap. 6"
+  },
+  {
+    "dia": 3, "orden": 3,
+    "palabra": "escrúpulo",
+    "hoy": "duda o recelo de conciencia; también, asco",
+    "otrora": "piedrecilla que se mete en el zapato",
+    "distractores": ["astilla clavada en el dedo", "grano o espinilla en la piel", "mancha pequeña en la ropa"],
+    "explicacion": "Del latín scrupulus, diminutivo de scrupus, «piedra puntiaguda». La china que se cuela en el calzado es pequeña, pero no deja caminar en paz, y ya en latín la imagen se usaba para la inquietud de conciencia. El diccionario conserva aún la acepción de la piedrecilla en el zapato.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. escrúpulo; etimología latina (scrupulus)"
+  },
+
+  {
+    "dia": 4, "orden": 1,
+    "palabra": "embarazar",
+    "hoy": "dejar encinta a una mujer",
+    "otrora": "estorbar, impedir",
+    "distractores": ["abrazar con fuerza", "cargar un barco", "envolver en paños"],
+    "explicacion": "Procede probablemente del portugués o del leonés, de una familia relacionada con baraça, «lazo, cuerda»: embarazar era enredar, trabar. De «estorbar» se pasó, por eufemismo, al estado de la mujer encinta. El sentido antiguo pervive en embarazoso, «que incomoda».",
+    "epoca": "Español medieval y clásico",
+    "fuente": "DLE, s. v. embarazar; Corominas, Diccionario crítico etimológico (por verificar)"
+  },
+  {
+    "dia": 4, "orden": 2,
+    "palabra": "ordenador",
+    "hoy": "computadora, máquina electrónica",
+    "otrora": "persona que ordena",
+    "distractores": ["sacerdote recién ordenado", "escribano que copiaba leyes", "mozo que hacía las camas"],
+    "explicacion": "Durante siglos, ordenador fue simplemente «el que ordena» o pone las cosas en orden. A mediados del siglo XX el francés acuñó ordinateur para las nuevas máquinas de cálculo, y en España se adoptó el calco, mientras que en América se prefirió computadora. El sentido antiguo sobrevive en expresiones administrativas como «ordenador de pagos».",
+    "epoca": "Español clásico; siglo XX para el sentido informático",
+    "fuente": "DLE, s. v. ordenador; francés ordinateur"
+  },
+  {
+    "dia": 4, "orden": 3,
+    "palabra": "melancolía",
+    "hoy": "tristeza vaga, profunda y duradera",
+    "otrora": "bilis negra, uno de los humores del cuerpo",
+    "distractores": ["flema espesa, causa de los catarros", "enfermedad del pecho y los pulmones", "veneno extraído de ciertas plantas"],
+    "explicacion": "Del griego melancholía, de mélas, «negro», y cholé, «bilis». La medicina antigua creía que el exceso de bilis negra volvía a las personas tristes y taciturnas. Al abandonarse la teoría de los humores, la palabra se quedó solo con el estado de ánimo.",
+    "epoca": "Medicina griega (Hipócrates, Galeno)",
+    "fuente": "DLE, s. v. melancolía; etimología griega (melancholía)"
+  },
+
+  {
+    "dia": 5, "orden": 1,
+    "palabra": "tremendo",
+    "hoy": "enorme, extraordinario",
+    "otrora": "que hace temblar de miedo",
+    "distractores": ["que tiembla de frío", "ruidoso como un trueno", "que se agita sin parar"],
+    "explicacion": "Del latín tremendus, «que debe hacer temblar», de tremere. Como formidable, nació para lo terrible y se fue aplicando a todo lo que impresiona por su tamaño o su intensidad. Hoy se dice tremendo sin asomo de temor, e incluso como elogio.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. tremendo; etimología latina (tremendus)"
+  },
+  {
+    "dia": 5, "orden": 2,
+    "palabra": "azafata",
+    "hoy": "auxiliar de vuelo; también, quien atiende al público en ferias",
+    "otrora": "criada que servía los vestidos y joyas a la reina",
+    "distractores": ["dama que leía en voz alta a la reina", "cocinera al servicio de la casa real", "nodriza encargada de los infantes"],
+    "explicacion": "Deriva de azafate, una bandeja o canastillo de origen árabe. La azafata de palacio llevaba en él los vestidos y alhajas cuando la reina se vestía. A mediados del siglo XX la palabra se recuperó para quienes atienden a los pasajeros de los aviones, y después para quienes reciben al público en congresos y ferias.",
+    "epoca": "Corte española del Siglo de Oro",
+    "fuente": "DLE, s. v. azafata y azafate; Diccionario de Autoridades"
+  },
+  {
+    "dia": 5, "orden": 3,
+    "palabra": "rúbrica",
+    "hoy": "rasgo que se añade a la firma",
+    "otrora": "título escrito en rojo",
+    "distractores": ["sello de cera del rey", "pliego doblado en cuatro", "letra capital dorada"],
+    "explicacion": "Del latín rubrica, «tierra roja», emparentado con ruber, «rojo». En los códices y libros litúrgicos, los títulos y las instrucciones se escribían en rojo para destacarlos del texto. De ahí pasó a significar «epígrafe» y, más tarde, también el trazo con que cada cual remata su firma.",
+    "epoca": "Latín; manuscritos medievales",
+    "fuente": "DLE, s. v. rúbrica; etimología latina (rubrica)"
+  },
+
+  {
+    "dia": 6, "orden": 1,
+    "palabra": "humor",
+    "hoy": "comicidad, gracia; también, estado de ánimo",
+    "otrora": "líquido del cuerpo",
+    "distractores": ["aliento, vaho de la boca", "ingenio para hacer versos", "carácter heredado de la familia"],
+    "explicacion": "Del latín humor, «líquido, humedad». La medicina antigua distinguía cuatro humores (sangre, flema, bilis amarilla y bilis negra) cuyo equilibrio decidía el temperamento. De ahí el «buen» o «mal humor» y, ya en época moderna y con influencia del inglés humour, el sentido de gracia o comicidad.",
+    "epoca": "Medicina antigua y medieval",
+    "fuente": "DLE, s. v. humor; etimología latina (humor)"
+  },
+  {
+    "dia": 6, "orden": 2,
+    "palabra": "villano",
+    "hoy": "malvado, sobre todo el de una historia",
+    "otrora": "vecino de una villa, no noble",
+    "distractores": ["soldado de a pie", "dueño de una casa de campo", "recaudador de impuestos"],
+    "explicacion": "Del latín tardío villanus, el habitante de una villa. En la Edad Media designaba al vecino del estado llano, ni noble ni hidalgo. El desprecio de los nobles hacia el pueblo llano tiñó la palabra de «rústico, grosero» y, finalmente, de «ruin, malvado».",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. villano; Diccionario de Autoridades"
+  },
+  {
+    "dia": 6, "orden": 3,
+    "palabra": "pedante",
+    "hoy": "que presume a destiempo de erudición",
+    "otrora": "maestro que enseñaba gramática a los niños en las casas",
+    "distractores": ["criado que acompañaba a pie el coche de su señor", "vendedor ambulante de libros y estampas", "estudiante pobre que vivía de limosna"],
+    "explicacion": "Llegó del italiano pedante, «maestro de niños», de origen discutido. Aquellos preceptores que iban de casa en casa enseñando gramática tenían fama de presumir de un saber escaso y de citar latines sin venir a cuento. La burla acabó comiéndose el oficio.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. pedante; Diccionario de Autoridades; etimología italiana (pedante)"
+  },
+
+  {
+    "dia": 7, "orden": 1,
+    "palabra": "lívido",
+    "hoy": "intensamente pálido",
+    "otrora": "amoratado",
+    "distractores": ["encendido de ira", "brillante, reluciente", "sudoroso, febril"],
+    "explicacion": "Del latín lividus, «de color plomizo, amoratado», el tono de un golpe o de la piel muy fría. Como ese color cárdeno y la palidez cenicienta se confunden en el rostro de quien sufre un susto o una conmoción, el uso fue desplazándose hacia «muy pálido». El diccionario recoge hoy ambos sentidos.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. lívido; etimología latina (lividus)"
+  },
+  {
+    "dia": 7, "orden": 2,
+    "palabra": "talento",
+    "hoy": "inteligencia, capacidad para algo",
+    "otrora": "antigua unidad de peso y moneda",
+    "distractores": ["antigua medida de tierra de labor", "tributo que se pagaba al templo", "contrato firmado entre mercaderes"],
+    "explicacion": "Del griego tálanton, unidad de peso que se usó también como moneda de cuenta en Grecia y Roma. En la parábola evangélica de los talentos, un señor reparte talentos entre sus siervos y premia a quien los hace fructificar. La lectura figurada de la parábola convirtió el talento en los dones que cada cual debe aprovechar.",
+    "epoca": "Antigüedad grecolatina",
+    "fuente": "DLE, s. v. talento; Evangelio de Mateo, 25"
+  },
+  {
+    "dia": 7, "orden": 3,
+    "palabra": "sofisticado",
+    "hoy": "refinado, elegante; también, complejo",
+    "otrora": "adulterado, falsificado",
+    "distractores": ["aprendido de memoria", "propio de los filósofos", "pronunciado con afectación"],
+    "explicacion": "Viene de sofisticar, derivado de sofista, el que argumenta con apariencia de verdad. Sofisticar era adulterar o falsificar algo, y sofisticado, lo falto de naturalidad. En el siglo XX, por influencia del inglés sophisticated, pasó a significar «refinado» o «complejo», casi siempre como elogio.",
+    "epoca": "Español clásico; siglo XX para el sentido moderno",
+    "fuente": "DLE, s. v. sofisticar y sofisticado; inglés sophisticated"
+  },
+
+  {
+    "dia": 8, "orden": 1,
+    "palabra": "bárbaro",
+    "hoy": "cruel, salvaje; coloquialmente, estupendo",
+    "otrora": "extranjero",
+    "distractores": ["barbudo", "montañés", "mercenario"],
+    "explicacion": "Del griego bárbaros, que imitaba el balbuceo ininteligible de quien no hablaba griego. Para griegos y romanos, bárbaro era simplemente el extranjero; la idea de que esos pueblos eran incultos y feroces lo convirtió en sinónimo de «cruel». En el habla coloquial se usa además como elogio: «una fiesta bárbara».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. bárbaro; etimología griega (bárbaros)"
+  },
+  {
+    "dia": 8, "orden": 2,
+    "palabra": "empresa",
+    "hoy": "compañía o negocio",
+    "otrora": "emblema o divisa con un lema",
+    "distractores": ["botín ganado en la guerra", "presa para el agua de un molino", "carta de pago de una deuda"],
+    "explicacion": "Empresa es, ante todo, lo que se emprende, y los caballeros solían representar sus empeños con una figura acompañada de un mote o lema. En el Siglo de Oro estas empresas fueron un género de moda: Saavedra Fajardo, por ejemplo, ilustró su tratado político con cien de ellas. El sentido mercantil, hoy dominante, se impuso mucho después.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. empresa; Saavedra Fajardo, Idea de un príncipe político-cristiano representada en cien empresas"
+  },
+  {
+    "dia": 8, "orden": 3,
+    "palabra": "siesta",
+    "hoy": "sueño breve que se echa después de comer",
+    "otrora": "la hora sexta, el mediodía",
+    "distractores": ["el sexto día de la semana", "el descanso de los segadores", "la merienda de media tarde"],
+    "explicacion": "Del latín sexta (hora). Los romanos contaban las horas desde el amanecer, de modo que la sexta caía hacia el mediodía, el momento de más calor. Por eso se llamó siesta a esas horas calurosas y, de ahí, al descanso que se toma en ellas.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. siesta; etimología latina (sexta hora)"
+  },
+
+  {
+    "dia": 9, "orden": 1,
+    "palabra": "gentil",
+    "hoy": "amable, cortés",
+    "otrora": "pagano",
+    "distractores": ["criado", "guerrero", "aprendiz"],
+    "explicacion": "Del latín gentilis, «de la misma gens o linaje». En el latín cristiano, las gentes eran los pueblos no judíos ni cristianos, y gentil pasó a significar «pagano», como en San Pablo, el «apóstol de los gentiles». Por otra vía, la idea de «de buen linaje» dio «noble, gracioso» y, de ahí, «amable».",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. gentil; etimología latina (gentilis)"
+  },
+  {
+    "dia": 9, "orden": 2,
+    "palabra": "oficina",
+    "hoy": "lugar donde se trabaja con papeles y trámites",
+    "otrora": "taller donde se fabrica algo",
+    "distractores": ["cargo o empleo público", "libro de rezos de los monjes", "sala donde un juez da audiencia"],
+    "explicacion": "Del latín officina, «taller, obrador», que procede de opificina, de opifex, «artesano». Durante siglos, oficina fue el lugar donde se hacía o se fabricaba algo, como la botica del farmacéutico. Con el auge de la administración, el trabajo de oficina pasó a ser casi solo trabajo de papeles.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. oficina; etimología latina (officina)"
+  },
+  {
+    "dia": 9, "orden": 3,
+    "palabra": "idiota",
+    "hoy": "tonto, corto de entendimiento",
+    "otrora": "persona sin letras ni instrucción",
+    "distractores": ["persona que habla otra lengua", "ermitaño que vive apartado", "loco de atar, furioso"],
+    "explicacion": "Del griego idiṓtēs, el particular que no intervenía en los asuntos públicos, y luego el profano o lego en una materia. En latín y en el español clásico, idiota era el que carecía de letras, sin connotación de torpeza. El paso de «ignorante» a «tonto» terminó haciendo de la palabra un insulto.",
+    "epoca": "Griego antiguo; español clásico",
+    "fuente": "DLE, s. v. idiota; etimología griega (idiṓtēs)"
+  },
+
+  {
+    "dia": 10, "orden": 1,
+    "palabra": "pantalla",
+    "hoy": "superficie donde se muestran imágenes",
+    "otrora": "lámina que se pone ante el fuego o la luz",
+    "distractores": ["abanico grande de plumas", "tapiz para cubrir las paredes", "farol de mano con asa"],
+    "explicacion": "De origen incierto, pantalla designó la lámina o mampara que se coloca ante la luz o la chimenea para que no moleste a la vista ni queme. Con el cine se llamó así al lienzo sobre el que se proyectan las imágenes, y luego a la superficie de televisores, ordenadores y teléfonos. La pantalla pasó de tamizar la luz a emitirla.",
+    "epoca": "Español clásico; siglo XX para el cine",
+    "fuente": "DLE, s. v. pantalla; Diccionario de Autoridades"
+  },
+  {
+    "dia": 10, "orden": 2,
+    "palabra": "desastre",
+    "hoy": "desgracia grande; también, algo muy mal hecho",
+    "otrora": "mala estrella",
+    "distractores": ["cielo sin estrellas", "ruina de una casa", "derrota en batalla"],
+    "explicacion": "Probablemente del occitano o del italiano disastro, formado con des- y astro. Según la astrología, la desgracia se debía a la mala influencia de los astros: quien la sufría había nacido con mala estrella. El sentido astrológico se olvidó y quedó solo la calamidad.",
+    "epoca": "Renacimiento",
+    "fuente": "DLE, s. v. desastre; Corominas, Diccionario crítico etimológico (por verificar)"
+  },
+  {
+    "dia": 10, "orden": 3,
+    "palabra": "rival",
+    "hoy": "competidor, adversario",
+    "otrora": "el que comparte el río",
+    "distractores": ["el que vive en la otra orilla", "el barquero que cruza el río", "el que guarda los caminos"],
+    "explicacion": "Del latín rivalis, derivado de rivus, «arroyo». Los rivales eran los vecinos que se servían del mismo cauce, con las disputas por el agua que eso traía. Ya en latín la palabra se aplicó a quienes pretendían a la misma persona, y de ahí pasó a cualquier competidor.",
+    "epoca": "Latín clásico",
+    "fuente": "Etimología latina (rivalis, rivus); DLE, s. v. rival"
+  }
+]
