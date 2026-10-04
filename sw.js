@@ -1,9 +1,12 @@
 // Service worker de Otrora.
 // Estrategia: «primero la red» para los archivos propios (así el contenido nuevo
 // llega en cuanto hay conexión) y caché como respaldo sin conexión.
+// La red se consulta con `cache: 'no-cache'`: el navegador pregunta siempre al servidor
+// si el archivo ha cambiado (si no, responde 304 y se usa su copia), en lugar de
+// reutilizar sin preguntar durante los 10 minutos que permite GitHub Pages.
 // Al añadir archivos nuevos a la lista, sube el número de VERSION.
 
-const VERSION = 'otrora-v2';
+const VERSION = 'otrora-v3';
 const CACHE_FUENTES = 'otrora-fuentes';
 
 const ARCHIVOS = [
@@ -59,9 +62,13 @@ self.addEventListener('fetch', (evento) => {
 
   if (url.origin !== self.location.origin) return;
 
-  // Archivos propios: primero la red; si falla, la caché.
+  // Archivos propios: primero la red (siempre revalidada); si falla, la caché.
+  // Una petición de navegación no admite opciones nuevas: se rehace a partir de su URL.
+  const red = peticion.mode === 'navigate'
+    ? fetch(peticion.url, { cache: 'no-cache', credentials: 'same-origin' })
+    : fetch(peticion, { cache: 'no-cache' });
   evento.respondWith(
-    fetch(peticion)
+    red
       .then((respuesta) => {
         if (respuesta.ok) {
           const copia = respuesta.clone();
