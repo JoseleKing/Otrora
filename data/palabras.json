@@ -307,5 +307,845 @@
     "explicacion": "Del latín rivalis, derivado de rivus, «arroyo». Los rivales eran los vecinos que se servían del mismo cauce, con las disputas por el agua que eso traía. Ya en latín la palabra se aplicó a quienes pretendían a la misma persona, y de ahí pasó a cualquier competidor.",
     "epoca": "Latín clásico",
     "fuente": "Etimología latina (rivalis, rivus); DLE, s. v. rival"
+  },
+  {
+    "dia": 11, "orden": 1,
+    "palabra": "candidato",
+    "hoy": "persona que aspira a un cargo, honor o premio",
+    "otrora": "vestido de blanco",
+    "distractores": ["elegido por sorteo", "que habla en la plaza", "que presenta una queja"],
+    "explicacion": "Del latín candidatus, «vestido de blanco», de candidus. En Roma, quien aspiraba a un cargo público se paseaba por el foro con una toga blanqueada con greda, la toga cándida, para dar imagen de pureza.",
+    "epoca": "Roma antigua",
+    "fuente": "DLE, s. v. candidato; etimología latina (candidatus, candidus)"
+  },
+  {
+    "dia": 11, "orden": 2,
+    "palabra": "músculo",
+    "hoy": "órgano que, al contraerse, produce el movimiento",
+    "otrora": "ratoncito",
+    "distractores": ["cuerda pequeña", "pliegue de la piel", "nudo de la carne"],
+    "explicacion": "Del latín musculus, diminutivo de mus, «ratón». Al contraerse bajo la piel, el músculo recordaba a un ratón que se mueve. Los griegos hacían la misma comparación: mŷs era a la vez «ratón» y «músculo».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. músculo; etimología latina (musculus, mus)"
+  },
+  {
+    "dia": 11, "orden": 3,
+    "palabra": "tacaño",
+    "hoy": "mezquino, que escatima lo que gasta",
+    "otrora": "pícaro, bellaco",
+    "distractores": ["cojo, que anda dando tacones", "campesino pobre", "que habla poco"],
+    "explicacion": "Del italiano taccagno. En el Siglo de Oro un tacaño era un pícaro o un embustero: el título completo de la novela de Quevedo dice que don Pablos, el Buscón, es «ejemplo de vagamundos y espejo de tacaños». El diccionario conserva ese sentido como desusado.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. tacaño; Quevedo, Historia de la vida del Buscón"
+  },
+  {
+    "dia": 12, "orden": 1,
+    "palabra": "calcular",
+    "hoy": "hacer las operaciones necesarias para averiguar una cantidad",
+    "otrora": "contar con piedrecitas",
+    "distractores": ["medir con una cuerda", "pesar en una balanza", "marcar en tablillas de cera"],
+    "explicacion": "Del latín calculus, «piedrecita», diminutivo de calx. Los romanos contaban moviendo guijarros sobre un tablero. Por eso los «cálculos» del riñón siguen siendo piedras.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. calcular, cálculo; etimología latina (calculus)"
+  },
+  {
+    "dia": 12, "orden": 2,
+    "palabra": "estoico",
+    "hoy": "que soporta con entereza la adversidad",
+    "otrora": "del pórtico",
+    "distractores": ["de Esparta", "del templo de Apolo", "de las estatuas"],
+    "explicacion": "Zenón de Citio enseñaba en la Stoa Poikíle, el «pórtico pintado» de Atenas. Sus discípulos, los estoicos, predicaban aceptar con serenidad lo que no depende de uno. De la escuela filosófica se pasó a la actitud.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. estoico; etimología griega (stoá)"
+  },
+  {
+    "dia": 12, "orden": 3,
+    "palabra": "hortera",
+    "hoy": "vulgar y de mal gusto",
+    "otrora": "escudilla de madera",
+    "distractores": ["vendedora de hortalizas", "cerca de un huerto", "canción de taberna"],
+    "explicacion": "Era una escudilla o cazuela de palo. En el Madrid del siglo XIX se llamaba así, en burla, a los mozos de las tiendas; y de ellos, a lo que se tenía por chabacano y de mal gusto.",
+    "epoca": "Siglo XIX",
+    "fuente": "DLE, s. v. hortera"
+  },
+  {
+    "dia": 13, "orden": 1,
+    "palabra": "pupila",
+    "hoy": "abertura del iris por la que entra la luz",
+    "otrora": "muñequita, niña pequeña",
+    "distractores": ["gota de agua", "piedra preciosa", "ventana redonda"],
+    "explicacion": "En latín, pupilla era «niña, muñequita», diminutivo de pupa. Quien se mira en los ojos de otro ve su imagen en pequeño, como una muñeca. Por eso en español también se dice «la niña de los ojos».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. pupila; etimología latina (pupilla, pupa)"
+  },
+  {
+    "dia": 13, "orden": 2,
+    "palabra": "trivial",
+    "hoy": "que no tiene importancia ni novedad",
+    "otrora": "propio de la encrucijada",
+    "distractores": ["que tiene tres partes", "propio de las tribus", "que se repite tres veces"],
+    "explicacion": "Del latín trivialis, de trivium, el lugar donde se cruzan tres caminos. Lo que se decía en las encrucijadas, al alcance de cualquiera, era lo común. En la Edad Media, el trivium fue también el grupo de las tres artes elementales: gramática, retórica y dialéctica.",
+    "epoca": "Latín clásico; Edad Media",
+    "fuente": "DLE, s. v. trivial; etimología latina (trivium)"
+  },
+  {
+    "dia": 13, "orden": 3,
+    "palabra": "gas",
+    "hoy": "fluido que tiende a expandirse indefinidamente",
+    "otrora": "caos",
+    "distractores": ["aire", "espíritu", "vapor"],
+    "explicacion": "La inventó en el siglo XVII el químico flamenco Jan Baptista van Helmont a partir del griego cháos. En neerlandés, la ch se pronuncia de forma parecida a nuestra g.",
+    "epoca": "Siglo XVII",
+    "fuente": "DLE, s. v. gas; van Helmont, Ortus medicinae"
+  },
+  {
+    "dia": 14, "orden": 1,
+    "palabra": "sueldo",
+    "hoy": "paga regular por un trabajo",
+    "otrora": "moneda de oro",
+    "distractores": ["ración de sal", "tierra que se recibía por servir al rey", "parte del botín"],
+    "explicacion": "Viene del latín solidus, una moneda de oro «sólido» que acuñó el emperador Constantino. De ella salen también «soldado», el que cobraba sueldo, y el sou francés.",
+    "epoca": "Bajo Imperio romano",
+    "fuente": "DLE, s. v. sueldo; etimología latina (solidus)"
+  },
+  {
+    "dia": 14, "orden": 2,
+    "palabra": "cínico",
+    "hoy": "que miente o actúa con desvergüenza",
+    "otrora": "perruno",
+    "distractores": ["que se burla de los dioses", "que vive escondido", "que no come carne"],
+    "explicacion": "Del griego kynikós, «perruno», de kýōn, «perro». Diógenes y los filósofos cínicos vivían sin pudor ni convenciones, como los perros, y despreciaban las normas sociales.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. cínico; etimología griega (kynikós)"
+  },
+  {
+    "dia": 14, "orden": 3,
+    "palabra": "alcoba",
+    "hoy": "dormitorio",
+    "otrora": "bóveda, cúpula",
+    "distractores": ["cuarto de baño", "despensa", "cuarto de las mujeres"],
+    "explicacion": "Del árabe al-qubba, «la bóveda». Era una pequeña estancia abovedada, abierta a una sala principal, donde se ponía la cama.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. alcoba; etimología árabe (al-qubba)"
+  },
+  {
+    "dia": 15, "orden": 1,
+    "palabra": "sarcasmo",
+    "hoy": "burla mordaz y cruel",
+    "otrora": "acción de desgarrar la carne",
+    "distractores": ["risa del sátiro", "máscara de teatro", "canto de burla"],
+    "explicacion": "Del griego sarkasmós, de sarkázein, «desgarrar la carne», como hacen los perros. Un sarcasmo es una burla que muerde.",
+    "epoca": "Griego antiguo",
+    "fuente": "DLE, s. v. sarcasmo; etimología griega (sarkázein)"
+  },
+  {
+    "dia": 15, "orden": 2,
+    "palabra": "lindo",
+    "hoy": "bonito, agradable a la vista",
+    "otrora": "legítimo, auténtico",
+    "distractores": ["limpio, claro", "pequeño, delicado", "que linda con algo"],
+    "explicacion": "Del latín legitimus, «legítimo, completo, perfecto». Lo genuino y bien hecho pasó a ser lo hermoso.",
+    "epoca": "Español medieval",
+    "fuente": "DLE, s. v. lindo; etimología latina (legitimus)"
+  },
+  {
+    "dia": 15, "orden": 3,
+    "palabra": "mariscal",
+    "hoy": "grado militar más alto en algunos ejércitos",
+    "otrora": "mozo de caballos",
+    "distractores": ["herrero", "jefe de la flota", "portaestandarte"],
+    "explicacion": "Viene del fráncico marhskalk, de marh, «caballo», y skalk, «sirviente». El criado que cuidaba los caballos fue ascendiendo con los siglos hasta lo más alto del ejército.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. mariscal; etimología germánica (marhskalk)"
+  },
+  {
+    "dia": 16, "orden": 1,
+    "palabra": "entusiasmo",
+    "hoy": "exaltación del ánimo, fervor",
+    "otrora": "tener un dios dentro",
+    "distractores": ["estar enamorado", "gritar de alegría", "ofrecer un sacrificio"],
+    "explicacion": "Del griego enthousiasmós, de éntheos, «que lleva un dios dentro». Era la inspiración divina de profetas y poetas, poseídos por un dios.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. entusiasmo; etimología griega (éntheos)"
+  },
+  {
+    "dia": 16, "orden": 2,
+    "palabra": "aduana",
+    "hoy": "oficina que controla las mercancías en las fronteras",
+    "otrora": "registro, oficina de cuentas",
+    "distractores": ["muralla de la ciudad", "mercado del puerto", "impuesto de la sal"],
+    "explicacion": "Del árabe dīwān, «registro, oficina». La misma palabra dio «diván»: el consejo del sultán y el sofá en que se sentaban sus miembros.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. aduana, diván; etimología árabe (dīwān)"
+  },
+  {
+    "dia": 16, "orden": 3,
+    "palabra": "guapo",
+    "hoy": "de buen aspecto, bien parecido",
+    "otrora": "valentón, pendenciero",
+    "distractores": ["rico, adinerado", "gordo, bien comido", "bien peinado"],
+    "explicacion": "En el Siglo de Oro, un guapo era un bravucón, chulo y bien vestido. El diccionario aún lo recoge como «animoso, bizarro y resuelto». Del lucimiento se pasó a la belleza.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. guapo"
+  },
+  {
+    "dia": 17, "orden": 1,
+    "palabra": "pánico",
+    "hoy": "miedo grande y repentino",
+    "otrora": "propio del dios Pan",
+    "distractores": ["propio de todos", "propio del pan", "propio de los bosques"],
+    "explicacion": "Pan, el dios de los pastores, mitad cabra, provocaba con sus gritos terrores súbitos e inexplicables en los rebaños y en los viajeros. Era el miedo «pánico».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. pánico; mitología griega"
+  },
+  {
+    "dia": 17, "orden": 2,
+    "palabra": "canciller",
+    "hoy": "ministro de asuntos exteriores; jefe de Gobierno en algunos países",
+    "otrora": "ujier de la reja del tribunal",
+    "distractores": ["cantor de la corte", "cazador del rey", "maestro de ceremonias"],
+    "explicacion": "Del latín cancellarius, el oficial que se situaba junto a los cancelli, la reja que separaba al juez del público en los tribunales romanos. El cargo fue ascendiendo hasta los puestos más altos.",
+    "epoca": "Bajo Imperio romano",
+    "fuente": "DLE, s. v. canciller; etimología latina (cancellarius)"
+  },
+  {
+    "dia": 17, "orden": 3,
+    "palabra": "fastidio",
+    "hoy": "molestia, enfado",
+    "otrora": "asco, repugnancia",
+    "distractores": ["pereza", "tristeza", "prisa"],
+    "explicacion": "Del latín fastidium, «asco, hastío». Lo que antes daba asco hoy solo molesta.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. fastidio; etimología latina (fastidium)"
+  },
+  {
+    "dia": 18, "orden": 1,
+    "palabra": "caos",
+    "hoy": "desorden, confusión",
+    "otrora": "abismo, espacio abierto",
+    "distractores": ["tormenta", "dios del mar", "ruido"],
+    "explicacion": "En griego, cháos era el vacío inmenso que, según Hesíodo, existía antes que todo lo demás. La idea de «desorden» llegó después, al imaginarlo como una masa confusa de la que salió el mundo ordenado.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. caos; Hesíodo, Teogonía"
+  },
+  {
+    "dia": 18, "orden": 2,
+    "palabra": "negocio",
+    "hoy": "actividad con la que se busca ganancia",
+    "otrora": "falta de ocio",
+    "distractores": ["préstamo", "trato entre vecinos", "mercado"],
+    "explicacion": "Del latín negotium, de nec, «no», y otium, «ocio». Para los romanos, el ocio era lo propio del hombre libre; el negocio, la ocupación que lo interrumpía.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. negocio; etimología latina (negotium)"
+  },
+  {
+    "dia": 18, "orden": 3,
+    "palabra": "corbata",
+    "hoy": "tira de tela que se anuda al cuello",
+    "otrora": "croata",
+    "distractores": ["cuerda de la horca", "cinta de marinero", "cuello de encaje"],
+    "explicacion": "Del italiano corvatta, «croata». Los jinetes croatas al servicio de Francia en el siglo XVII llevaban un pañuelo anudado al cuello que se puso de moda en París.",
+    "epoca": "Siglo XVII",
+    "fuente": "DLE, s. v. corbata"
+  },
+  {
+    "dia": 19, "orden": 1,
+    "palabra": "hipócrita",
+    "hoy": "que finge sentimientos o virtudes",
+    "otrora": "actor",
+    "distractores": ["médico", "adivino", "jinete"],
+    "explicacion": "Del griego hypokritḗs, «el que responde», es decir, el actor de teatro. Quien finge lo que no siente está interpretando un papel.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. hipócrita; etimología griega (hypokritḗs)"
+  },
+  {
+    "dia": 19, "orden": 2,
+    "palabra": "almirante",
+    "hoy": "grado de la Armada",
+    "otrora": "jefe, príncipe",
+    "distractores": ["capitán de un barco", "guardián del faro", "cómitre de los remeros"],
+    "explicacion": "Del árabe amīr, «jefe, príncipe», el mismo que «emir». En Sicilia y en Castilla pasó a designar al jefe de la flota.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. almirante; etimología árabe (amīr)"
+  },
+  {
+    "dia": 19, "orden": 3,
+    "palabra": "capricho",
+    "hoy": "antojo pasajero",
+    "otrora": "escalofrío, pelo de punta",
+    "distractores": ["salto de cabra", "antojo de embarazada", "peinado rizado"],
+    "explicacion": "Del italiano capriccio, de capo, «cabeza», y riccio, «erizo»: la cabeza con los pelos de punta, de miedo. Del sobresalto se pasó al deseo repentino. No viene de «cabra», como a veces se dice.",
+    "epoca": "Renacimiento",
+    "fuente": "DLE, s. v. capricho; etimología italiana (capriccio)"
+  },
+  {
+    "dia": 20, "orden": 1,
+    "palabra": "tragedia",
+    "hoy": "suceso muy desgraciado",
+    "otrora": "canto del macho cabrío",
+    "distractores": ["canto de los muertos", "danza de las máscaras", "lamento de las viudas"],
+    "explicacion": "Del griego tragōidía, de trágos, «macho cabrío», y ōidḗ, «canto». No se sabe bien por qué: quizá por el macho cabrío que se sacrificaba o se daba como premio, o por los disfraces de sátiro del coro.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. tragedia; etimología griega (tragōidía)"
+  },
+  {
+    "dia": 20, "orden": 2,
+    "palabra": "boicot",
+    "hoy": "presión que se ejerce dejando de comprar o de tratar con alguien",
+    "otrora": "apellido de un administrador",
+    "distractores": ["nombre de un barco", "grito de los estibadores", "juego de cartas"],
+    "explicacion": "Charles Boycott administraba tierras en Irlanda. En 1880, los campesinos, en protesta por los desahucios, dejaron de trabajarle, de venderle y de hablarle. En pocos meses su apellido era un verbo en inglés.",
+    "epoca": "Siglo XIX",
+    "fuente": "DLE, s. v. boicot"
+  },
+  {
+    "dia": 20, "orden": 3,
+    "palabra": "álgebra",
+    "hoy": "parte de las matemáticas que opera con letras y números",
+    "otrora": "arte de componer huesos",
+    "distractores": ["juego de dados", "arte de medir terrenos", "cálculo de los astros"],
+    "explicacion": "Del árabe al-ŷabr, «la reducción», del título de un tratado de al-Juarismi. Como también significaba «restituir», en español se llamó álgebra al arte de recolocar los huesos dislocados, y algebrista al que lo practicaba. El diccionario aún lo recoge.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. álgebra, algebrista; etimología árabe (al-ŷabr)"
+  },
+  {
+    "dia": 21, "orden": 1,
+    "palabra": "escuela",
+    "hoy": "centro de enseñanza",
+    "otrora": "ocio, tiempo libre",
+    "distractores": ["jardín", "asamblea", "lectura en voz alta"],
+    "explicacion": "En griego, scholḗ era el ocio, el tiempo libre de quien no tenía que trabajar. Ese tiempo se dedicaba a conversar y aprender, y la palabra acabó designando el lugar donde se enseñaba.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. escuela; etimología griega (scholḗ)"
+  },
+  {
+    "dia": 21, "orden": 2,
+    "palabra": "torpe",
+    "hoy": "falto de habilidad o de agilidad",
+    "otrora": "feo, vergonzoso",
+    "distractores": ["cojo", "sordo", "gordo"],
+    "explicacion": "Del latín turpis, «feo, vergonzoso». De lo feo se pasó a lo desmañado y lento. El sentido moral sigue en el diccionario: «torpe» puede ser también «deshonesto, impúdico».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. torpe; etimología latina (turpis)"
+  },
+  {
+    "dia": 21, "orden": 3,
+    "palabra": "restaurante",
+    "hoy": "establecimiento donde se sirven comidas",
+    "otrora": "caldo reconstituyente",
+    "distractores": ["taller de restauradores", "posada de caminos", "tienda de vinos"],
+    "explicacion": "En el París del siglo XVIII, un restaurant era un caldo que «restauraba» las fuerzas. Las casas que lo servían acabaron tomando ese nombre.",
+    "epoca": "Siglo XVIII",
+    "fuente": "DLE, s. v. restaurante; etimología francesa (restaurant)"
+  },
+  {
+    "dia": 22, "orden": 1,
+    "palabra": "gimnasio",
+    "hoy": "lugar para hacer ejercicio",
+    "otrora": "lugar donde se entrenaba desnudo",
+    "distractores": ["lugar de baños", "escuela de esgrima", "escuela de baile"],
+    "explicacion": "Del griego gymnásion, de gymnós, «desnudo»: los atletas griegos se ejercitaban sin ropa. En Alemania, un Gymnasium es hoy un instituto de secundaria.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. gimnasio; etimología griega (gymnós)"
+  },
+  {
+    "dia": 22, "orden": 2,
+    "palabra": "chusma",
+    "hoy": "gente grosera y despreciable",
+    "otrora": "tripulación de galeotes",
+    "distractores": ["gente del puerto", "tropa sin armas", "mercado de esclavos"],
+    "explicacion": "Del italiano ciurma, de origen griego. En español era el conjunto de galeotes, forzados y esclavos que remaban en las galeras. De ahí pasó a cualquier gente baja.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. chusma"
+  },
+  {
+    "dia": 22, "orden": 3,
+    "palabra": "ingeniero",
+    "hoy": "persona que ejerce la ingeniería",
+    "otrora": "constructor de máquinas de guerra",
+    "distractores": ["persona muy ingeniosa", "inventor de juegos", "maestro de obras de iglesias"],
+    "explicacion": "Los «ingenios» eran las máquinas de guerra, como catapultas y torres de asedio, y el ingeniero era quien las construía y manejaba.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. ingeniero, ingenio"
+  },
+  {
+    "dia": 23, "orden": 1,
+    "palabra": "alumno",
+    "hoy": "estudiante",
+    "otrora": "niño criado por otro",
+    "distractores": ["el que no tiene luz", "el que sirve en la casa", "el que vive en otra ciudad"],
+    "explicacion": "Del latín alumnus, de alere, «alimentar»: el criado o pupilo que alguien sacaba adelante. La idea de que significa «sin luz» (a-lumen) es una falsa etimología.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. alumno; etimología latina (alumnus, alere)"
+  },
+  {
+    "dia": 23, "orden": 2,
+    "palabra": "pagano",
+    "hoy": "que no es cristiano",
+    "otrora": "aldeano",
+    "distractores": ["el que paga", "extranjero", "soldado"],
+    "explicacion": "Del latín paganus, «aldeano», de pagus, «aldea». El cristianismo triunfó primero en las ciudades; en el campo se mantuvieron más tiempo los viejos cultos.",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. pagano; etimología latina (paganus, pagus)"
+  },
+  {
+    "dia": 23, "orden": 3,
+    "palabra": "canalla",
+    "hoy": "persona despreciable",
+    "otrora": "jauría de perros",
+    "distractores": ["agua de los canales", "cuadrilla de canteros", "gente de mar"],
+    "explicacion": "Del italiano canaglia, de cane, «perro»: una jauría. De ahí pasó a la gente baja y, luego, a una sola persona ruin.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. canalla; etimología italiana (canaglia)"
+  },
+  {
+    "dia": 24, "orden": 1,
+    "palabra": "persona",
+    "hoy": "individuo de la especie humana",
+    "otrora": "máscara de teatro",
+    "distractores": ["cuerpo", "nombre propio", "alma"],
+    "explicacion": "En latín, persona era la máscara de los actores, que según una vieja explicación hacía resonar la voz (per-sonare). De la máscara se pasó al papel y del papel a quien lo desempeña.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. persona; etimología latina (persona)"
+  },
+  {
+    "dia": 24, "orden": 2,
+    "palabra": "cifra",
+    "hoy": "signo con que se representa un número",
+    "otrora": "cero",
+    "distractores": ["letra", "piedra de contar", "moneda"],
+    "explicacion": "Del árabe ṣifr, «vacío, cero». Con los números arábigos llegó a Europa el cero; luego la palabra pasó a todos los números, y el cero tomó nombre propio por otro camino, a través del italiano.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. cifra, cero; etimología árabe (ṣifr)"
+  },
+  {
+    "dia": 24, "orden": 3,
+    "palabra": "boda",
+    "hoy": "casamiento",
+    "otrora": "votos, promesas",
+    "distractores": ["banquete", "anillos", "baile"],
+    "explicacion": "Del latín vota, plural de votum, «voto, promesa»: las promesas que se hacían los novios.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. boda; etimología latina (vota)"
+  },
+  {
+    "dia": 25, "orden": 1,
+    "palabra": "ministro",
+    "hoy": "jefe de un ministerio del Gobierno",
+    "otrora": "servidor, criado",
+    "distractores": ["anciano", "consejero mayor", "el que cuenta el dinero"],
+    "explicacion": "Del latín minister, «servidor», relacionado con minus, «menos», frente a magister, «maestro», relacionado con magis, «más».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. ministro; etimología latina (minister)"
+  },
+  {
+    "dia": 25, "orden": 2,
+    "palabra": "carnaval",
+    "hoy": "fiesta de máscaras antes de la Cuaresma",
+    "otrora": "dejar la carne",
+    "distractores": ["carro de fiesta", "fiesta de la carne", "baile de máscaras"],
+    "explicacion": "Del italiano carnevale, de carne levare, «quitar la carne». Eran los últimos días antes de la Cuaresma, cuando se dejaba de comer carne.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. carnaval; etimología italiana (carnevale)"
+  },
+  {
+    "dia": 25, "orden": 3,
+    "palabra": "bobo",
+    "hoy": "tonto, de poco entendimiento",
+    "otrora": "tartamudo",
+    "distractores": ["boquiabierto", "gordo", "sordo"],
+    "explicacion": "Del latín balbus, «tartamudo». Quien hablaba con dificultad pasaba por corto de entendimiento.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. bobo; etimología latina (balbus)"
+  },
+  {
+    "dia": 26, "orden": 1,
+    "palabra": "imbécil",
+    "hoy": "tonto, falto de inteligencia",
+    "otrora": "débil, sin fuerzas",
+    "distractores": ["sin bastón", "sin barba", "sin casa"],
+    "explicacion": "Del latín imbecillus, «débil», de cuerpo o de ánimo. Se suele contar que viene de «sin bastón» (in baculum), pero es una explicación muy dudosa.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. imbécil; etimología latina (imbecillus)"
+  },
+  {
+    "dia": 26, "orden": 2,
+    "palabra": "alcalde",
+    "hoy": "presidente de un ayuntamiento",
+    "otrora": "juez",
+    "distractores": ["recaudador de impuestos", "jefe de la guardia", "señor del castillo"],
+    "explicacion": "Del árabe al-qāḍī, «el juez». En la Castilla medieval, los alcaldes administraban justicia; con el tiempo pasaron a gobernar los municipios.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. alcalde; etimología árabe (al-qāḍī)"
+  },
+  {
+    "dia": 26, "orden": 3,
+    "palabra": "nostalgia",
+    "hoy": "añoranza de algo perdido",
+    "otrora": "enfermedad de los soldados",
+    "distractores": ["canción de despedida", "luto por un hijo", "carta de amor"],
+    "explicacion": "La inventó en 1688 el médico suizo Johannes Hofer, con el griego nóstos, «regreso», y álgos, «dolor», para nombrar la enfermedad de los soldados suizos que, lejos de casa, enfermaban de añoranza.",
+    "epoca": "Siglo XVII",
+    "fuente": "DLE, s. v. nostalgia; Hofer, Dissertatio medica de nostalgia"
+  },
+  {
+    "dia": 27, "orden": 1,
+    "palabra": "cretino",
+    "hoy": "estúpido, necio",
+    "otrora": "cristiano, pobre criatura",
+    "distractores": ["habitante de Creta", "enano", "montañés"],
+    "explicacion": "En el francés de los Alpes, crétin venía de chrétien, «cristiano», en el sentido de «pobre criatura». Se aplicaba a quienes padecían una enfermedad causada por la falta de yodo, frecuente en esos valles. Hoy es solo un insulto.",
+    "epoca": "Siglo XVIII",
+    "fuente": "DLE, s. v. cretino; etimología francesa (crétin)"
+  },
+  {
+    "dia": 27, "orden": 2,
+    "palabra": "libro",
+    "hoy": "conjunto de hojas encuadernadas",
+    "otrora": "corteza de árbol",
+    "distractores": ["rollo de piel", "tabla de cera", "hoja de palma"],
+    "explicacion": "En latín, liber era la parte interior de la corteza de los árboles, sobre la que se escribía en tiempos muy antiguos.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. libro; etimología latina (liber)"
+  },
+  {
+    "dia": 27, "orden": 3,
+    "palabra": "alcohol",
+    "hoy": "líquido que se obtiene por destilación",
+    "otrora": "polvo para pintarse los ojos",
+    "distractores": ["vino de dátiles", "perfume de rosas", "agua de pozo"],
+    "explicacion": "Del árabe al-kuḥl, el polvo de antimonio con que se pintaban los ojos. Los alquimistas llamaron así a cualquier sustancia muy refinada, y acabó quedándose en el espíritu del vino.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. alcohol; etimología árabe (al-kuḥl)"
+  },
+  {
+    "dia": 28, "orden": 1,
+    "palabra": "histérico",
+    "hoy": "muy nervioso, alterado",
+    "otrora": "del útero",
+    "distractores": ["de la historia", "del pecho", "de la sangre"],
+    "explicacion": "Del griego hystéra, «útero». La medicina antigua atribuía ciertos trastornos nerviosos a un útero que se desplazaba por el cuerpo, y por eso los creía exclusivos de las mujeres.",
+    "epoca": "Medicina griega (Hipócrates, Galeno)",
+    "fuente": "DLE, s. v. histérico, histeria; etimología griega (hystéra)"
+  },
+  {
+    "dia": 28, "orden": 2,
+    "palabra": "fiasco",
+    "hoy": "fracaso",
+    "otrora": "frasco, botella",
+    "distractores": ["fiesta", "fuego de artificio", "mentira"],
+    "explicacion": "En italiano, fiasco es una botella. El sentido de fracaso viene de la expresión far fiasco, «hacer botella», cuyo origen es un misterio.",
+    "epoca": "Siglo XIX",
+    "fuente": "DLE, s. v. fiasco; etimología italiana (fiasco) (por verificar)"
+  },
+  {
+    "dia": 28, "orden": 3,
+    "palabra": "señor",
+    "hoy": "hombre; también, dueño de algo",
+    "otrora": "más viejo",
+    "distractores": ["más rico", "más alto", "más fuerte"],
+    "explicacion": "Del latín senior, «más viejo», comparativo de senex. Los mayores eran los que mandaban. De la misma raíz son «senado» y «senil».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. señor; etimología latina (senior)"
+  },
+  {
+    "dia": 29, "orden": 1,
+    "palabra": "colérico",
+    "hoy": "que se enfada con facilidad",
+    "otrora": "que tiene exceso de bilis amarilla",
+    "distractores": ["enfermo del cólera", "que tiene fiebre", "pelirrojo"],
+    "explicacion": "En la teoría de los cuatro humores, el exceso de bilis amarilla, cholḗ en griego, hacía a la persona irritable. Melancolía y humor vienen de la misma teoría.",
+    "epoca": "Medicina antigua y medieval",
+    "fuente": "DLE, s. v. colérico, cólera; etimología griega (cholḗ)"
+  },
+  {
+    "dia": 29, "orden": 2,
+    "palabra": "lápiz",
+    "hoy": "barrita de grafito para escribir o dibujar",
+    "otrora": "piedra",
+    "distractores": ["pluma", "carbón", "cera"],
+    "explicacion": "Del latín lapis, «piedra». Se llamaba lápiz a varias piedras con que se podía pintar, como el lápiz plomo, el grafito, o el lapislázuli.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. lápiz; etimología latina (lapis)"
+  },
+  {
+    "dia": 29, "orden": 3,
+    "palabra": "bancarrota",
+    "hoy": "quiebra de una empresa o de una persona",
+    "otrora": "banco roto",
+    "distractores": ["banca de juego", "cuenta cerrada", "barca hundida"],
+    "explicacion": "Del italiano banca rotta. Se cuenta que al cambista que no podía pagar se le rompía el banco o mostrador en el que trabajaba en la plaza.",
+    "epoca": "Renacimiento",
+    "fuente": "DLE, s. v. bancarrota; etimología italiana (banca rotta) (por verificar)"
+  },
+  {
+    "dia": 30, "orden": 1,
+    "palabra": "influencia",
+    "hoy": "poder de una persona o cosa sobre otra",
+    "otrora": "flujo de los astros",
+    "distractores": ["corriente de un río", "contagio", "rumor"],
+    "explicacion": "Del latín medieval influentia, «flujo hacia dentro». Los astrólogos creían que de los astros fluía algo que actuaba sobre los hombres. La gripe, en italiano influenza, también se atribuía a esa influencia.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. influencia; etimología latina (influentia)"
+  },
+  {
+    "dia": 30, "orden": 2,
+    "palabra": "volumen",
+    "hoy": "espacio que ocupa un cuerpo; también, tomo de una obra",
+    "otrora": "rollo",
+    "distractores": ["peso", "tamaño de la voz", "montón"],
+    "explicacion": "Del latín volumen, de volvere, «enrollar». Los libros antiguos eran rollos de papiro que se iban desenrollando para leer.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. volumen; etimología latina (volumen, volvere)"
+  },
+  {
+    "dia": 30, "orden": 3,
+    "palabra": "silueta",
+    "hoy": "contorno de una figura",
+    "otrora": "apellido de un ministro",
+    "distractores": ["nombre de una bailarina", "sombra de la luna", "marca de tijeras"],
+    "explicacion": "Étienne de Silhouette fue ministro de Hacienda de Luis XV, famoso por sus recortes. Su apellido se dio a los retratos baratos, recortados en papel negro.",
+    "epoca": "Siglo XVIII",
+    "fuente": "DLE, s. v. silueta"
+  },
+  {
+    "dia": 31, "orden": 1,
+    "palabra": "considerar",
+    "hoy": "pensar algo con atención",
+    "otrora": "observar los astros",
+    "distractores": ["sentarse juntos", "reunirse en consejo", "contar el ganado"],
+    "explicacion": "Del latín considerare. Se suele relacionar con sidus, «astro»: considerar sería observar el cielo con atención, como los augures. Es una etimología probable, pero no segura.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. considerar; etimología latina (considerare, sidus) (por verificar)"
+  },
+  {
+    "dia": 31, "orden": 2,
+    "palabra": "texto",
+    "hoy": "conjunto de palabras escritas",
+    "otrora": "tejido",
+    "distractores": ["tablilla", "libro sagrado", "cuerda"],
+    "explicacion": "Del latín textus, «tejido», de texere, «tejer». Escribir era entrelazar palabras. De la misma familia son «textil» y «pretexto».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. texto; etimología latina (textus, texere)"
+  },
+  {
+    "dia": 31, "orden": 3,
+    "palabra": "robot",
+    "hoy": "máquina que hace tareas de forma automática",
+    "otrora": "trabajo forzado",
+    "distractores": ["muñeco de hierro", "ladrón", "esclavo de barro"],
+    "explicacion": "La popularizó el escritor checo Karel Čapek en su obra R. U. R. (1920), a partir de robota, «trabajo forzado, servidumbre». Fue idea de su hermano Josef.",
+    "epoca": "Siglo XX",
+    "fuente": "DLE, s. v. robot; Čapek, R. U. R."
+  },
+  {
+    "dia": 32, "orden": 1,
+    "palabra": "trabajar",
+    "hoy": "realizar una actividad física o intelectual",
+    "otrora": "torturar",
+    "distractores": ["arar", "viajar", "cargar peso"],
+    "explicacion": "Del latín vulgar *tripaliare, «torturar con el tripalium», un instrumento de tres palos. Del sufrimiento se pasó al esfuerzo y de ahí a la actividad cotidiana. Algunos etimólogos discuten este origen.",
+    "epoca": "Latín vulgar",
+    "fuente": "Corominas, Diccionario crítico etimológico; DLE, s. v. trabajar (por verificar)"
+  },
+  {
+    "dia": 32, "orden": 2,
+    "palabra": "mezquino",
+    "hoy": "tacaño, ruin",
+    "otrora": "pobre, necesitado",
+    "distractores": ["de la mezquita", "pequeño", "orgulloso"],
+    "explicacion": "Del árabe miskīn, «pobre», de donde viene también el francés mesquin. Del pobre se pasó al que obra con poca generosidad.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. mezquino; etimología árabe (miskīn)"
+  },
+  {
+    "dia": 32, "orden": 3,
+    "palabra": "hospital",
+    "hoy": "centro donde se atiende a enfermos",
+    "otrora": "casa para alojar a huéspedes",
+    "distractores": ["casa de baños", "cuartel", "convento"],
+    "explicacion": "Del latín hospitalis, de hospes, «huésped». Los hospitales medievales acogían a peregrinos y pobres, estuvieran enfermos o no. De la misma familia son «hostal», «hotel» y «hospitalidad».",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. hospital; etimología latina (hospitalis, hospes)"
+  },
+  {
+    "dia": 33, "orden": 1,
+    "palabra": "planeta",
+    "hoy": "cuerpo celeste que gira alrededor de una estrella",
+    "otrora": "errante",
+    "distractores": ["luminoso", "lejano", "redondo"],
+    "explicacion": "Del griego planḗtēs, «errante». A diferencia de las estrellas fijas, los planetas se desplazaban por el cielo como vagabundos.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. planeta; etimología griega (planḗtēs)"
+  },
+  {
+    "dia": 33, "orden": 2,
+    "palabra": "quimera",
+    "hoy": "ilusión imposible",
+    "otrora": "monstruo mitológico",
+    "distractores": ["sueño profético", "estrella fugaz", "perfume"],
+    "explicacion": "La Quimera era un monstruo con cabeza de león, cuerpo de cabra y cola de serpiente; en griego, chímaira es «cabra». Lo imposible de imaginar pasó a ser lo imposible de conseguir.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. quimera; mitología griega"
+  },
+  {
+    "dia": 33, "orden": 3,
+    "palabra": "sobremesa",
+    "hoy": "charla después de comer",
+    "otrora": "tapete de la mesa",
+    "distractores": ["postre", "mantel de fiesta", "segundo plato"],
+    "explicacion": "Antes que la charla de después de comer, la sobremesa fue el tapete que se ponía sobre la mesa. Ese sentido sigue en el diccionario.",
+    "epoca": "Español clásico",
+    "fuente": "DLE, s. v. sobremesa"
+  },
+  {
+    "dia": 34, "orden": 1,
+    "palabra": "galaxia",
+    "hoy": "conjunto enorme de estrellas",
+    "otrora": "leche",
+    "distractores": ["camino", "polvo", "espuma"],
+    "explicacion": "Del griego gála, «leche». Para los griegos, la Vía Láctea era la leche que se derramó del pecho de la diosa Hera.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. galaxia; mitología griega"
+  },
+  {
+    "dia": 34, "orden": 2,
+    "palabra": "menú",
+    "hoy": "carta de platos de una comida",
+    "otrora": "menudo, detallado",
+    "distractores": ["comida de mesón", "bandeja", "turno de comida"],
+    "explicacion": "Del francés menu, «pequeño, detallado», como nuestro «menudo». Era la lista detallada de los platos.",
+    "epoca": "Siglo XIX",
+    "fuente": "DLE, s. v. menú; etimología francesa (menu)"
+  },
+  {
+    "dia": 34, "orden": 3,
+    "palabra": "propina",
+    "hoy": "dinero que se da de más por un servicio",
+    "otrora": "invitación a beber",
+    "distractores": ["pago adelantado", "limosna", "premio de una apuesta"],
+    "explicacion": "Del latín propinare, «dar de beber, brindar», y este del griego propínein, «beber a la salud de alguien». Era lo que se daba para que el otro bebiera.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. propina; etimología latina (propinare)"
+  },
+  {
+    "dia": 35, "orden": 1,
+    "palabra": "electricidad",
+    "hoy": "forma de energía",
+    "otrora": "ámbar",
+    "distractores": ["rayo", "imán", "chispa"],
+    "explicacion": "Del griego ḗlektron, «ámbar». Ya Tales de Mileto vio que el ámbar frotado atraía pajitas. William Gilbert acuñó en 1600 el latín electricus.",
+    "epoca": "Grecia antigua; siglo XVII",
+    "fuente": "DLE, s. v. electricidad; Gilbert, De magnete"
+  },
+  {
+    "dia": 35, "orden": 2,
+    "palabra": "lacónico",
+    "hoy": "breve, que usa pocas palabras",
+    "otrora": "de Laconia, espartano",
+    "distractores": ["triste, apagado", "que habla latín", "sin color"],
+    "explicacion": "Laconia era la región de Esparta, y los espartanos tenían fama de hablar poco. Según Plutarco, cuando Filipo de Macedonia les amenazó con arrasar su ciudad si entraba en Laconia, respondieron con una sola palabra: «Si».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. lacónico; Plutarco"
+  },
+  {
+    "dia": 35, "orden": 3,
+    "palabra": "azar",
+    "hoy": "casualidad",
+    "otrora": "dado de jugar",
+    "distractores": ["moneda", "baraja", "ruleta"],
+    "explicacion": "Del árabe az-zahr, «la flor», que se pintaba en una de las caras del dado. De la flor se pasó al dado, y del dado a la suerte. «Azahar» es su hermano.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. azar; etimología árabe (az-zahr)"
+  },
+  {
+    "dia": 36, "orden": 1,
+    "palabra": "vacuna",
+    "hoy": "preparado que inmuniza contra una enfermedad",
+    "otrora": "de la vaca",
+    "distractores": ["de la vena", "del vacío", "de la vid"],
+    "explicacion": "Edward Jenner protegió de la viruela con la viruela de las vacas, en latín variolae vaccinae. Pasteur extendió el nombre a todos los preparados, en su honor.",
+    "epoca": "Siglo XVIII",
+    "fuente": "DLE, s. v. vacuna; Jenner"
+  },
+  {
+    "dia": 36, "orden": 2,
+    "palabra": "barbacoa",
+    "hoy": "parrilla para asar al aire libre",
+    "otrora": "armazón de palos",
+    "distractores": ["fiesta de cazadores", "horno de piedra", "red de pescar"],
+    "explicacion": "Es una voz de las Antillas, probablemente taína. Los cronistas la usaban para un entramado de varas que servía de cama, de granero o para asar la carne.",
+    "epoca": "Siglo XVI",
+    "fuente": "DLE, s. v. barbacoa"
+  },
+  {
+    "dia": 36, "orden": 3,
+    "palabra": "brindis",
+    "hoy": "acción de levantar la copa a la salud de alguien",
+    "otrora": "«te lo ofrezco», en alemán",
+    "distractores": ["«a tu salud», en latín", "«bebe», en italiano", "«brilla», en francés"],
+    "explicacion": "Del alemán ich bring dir’s, «te lo ofrezco», que decían los soldados alemanes al levantar la copa. Llegó al español a través del italiano brindisi.",
+    "epoca": "Siglo XVI",
+    "fuente": "DLE, s. v. brindis; etimología alemana (ich bring dir’s)"
+  },
+  {
+    "dia": 37, "orden": 1,
+    "palabra": "virus",
+    "hoy": "microorganismo que causa enfermedades",
+    "otrora": "veneno",
+    "distractores": ["fuerza", "semilla", "humo"],
+    "explicacion": "En latín, virus era el veneno o el jugo ponzoñoso. Los microbiólogos de finales del siglo XIX lo aplicaron a agentes más pequeños que las bacterias.",
+    "epoca": "Latín clásico; siglo XIX",
+    "fuente": "DLE, s. v. virus; etimología latina (virus)"
+  },
+  {
+    "dia": 37, "orden": 2,
+    "palabra": "esclavo",
+    "hoy": "persona sin libertad, propiedad de otra",
+    "otrora": "eslavo",
+    "distractores": ["prisionero de guerra", "remero", "deudor"],
+    "explicacion": "Del latín medieval sclavus, «eslavo». En la Edad Media, muchos cautivos vendidos en Europa procedían de pueblos eslavos.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. esclavo; etimología latina medieval (sclavus)"
+  },
+  {
+    "dia": 37, "orden": 3,
+    "palabra": "capítulo",
+    "hoy": "cada parte en que se divide un libro",
+    "otrora": "cabecita",
+    "distractores": ["hojita", "puñado", "renglón"],
+    "explicacion": "Del latín capitulum, diminutivo de caput, «cabeza». Eran los encabezamientos breves que dividían un texto. También se llama capítulo a la reunión de los religiosos, que se abría leyendo un capítulo de la regla.",
+    "epoca": "Latín medieval",
+    "fuente": "DLE, s. v. capítulo; etimología latina (capitulum)"
+  },
+  {
+    "dia": 38, "orden": 1,
+    "palabra": "asesino",
+    "hoy": "que mata a otra persona",
+    "otrora": "consumidor de hachís",
+    "distractores": ["guardián de la montaña", "seguidor de un santo", "jinete del desierto"],
+    "explicacion": "Del árabe ḥaššāšīn, «adictos al hachís», nombre despectivo que se daba a los nizaríes, una secta que en tiempos de las Cruzadas eliminaba a sus enemigos. Que de verdad consumieran hachís es dudoso.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. asesino; etimología árabe (ḥaššāšīn)"
+  },
+  {
+    "dia": 38, "orden": 2,
+    "palabra": "estúpido",
+    "hoy": "necio, falto de inteligencia",
+    "otrora": "pasmado, atónito",
+    "distractores": ["perezoso", "mudo", "sucio"],
+    "explicacion": "Del latín stupidus, de stupere, «quedarse pasmado». De la misma familia es «estupor». El estúpido era el que se quedaba atónito, sin reaccionar.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. estúpido; etimología latina (stupidus, stupere)"
+  },
+  {
+    "dia": 38, "orden": 3,
+    "palabra": "huracán",
+    "hoy": "viento muy violento",
+    "otrora": "un dios",
+    "distractores": ["una montaña", "un tambor", "un pez"],
+    "explicacion": "Es una voz taína: los cronistas la recogieron como el nombre de las grandes tormentas de las Antillas, relacionado con una divinidad. Fue de las primeras palabras americanas en pasar al español, y de ahí al inglés hurricane.",
+    "epoca": "Siglo XVI",
+    "fuente": "DLE, s. v. huracán (por verificar el origen divino)"
   }
 ]
