@@ -5,7 +5,6 @@
   const FECHA_INICIO = '2026-10-04';      // Fecha del «Día 1» (hora de Madrid), en formato AAAA-MM-DD
   const ZONA_HORARIA = 'Europe/Madrid';
   const CLAVE_ESTADO = 'otrora:estado';
-  const CLAVE_TEMA = 'almanaque:tema'; // común a Almanaque y a todos sus juegos
   const CLAVE_BIENVENIDA = 'otrora:bienvenida';
   const ACIERTO = '⏳';
   const FALLO = '⌛';
@@ -341,19 +340,10 @@
     avisoTimeout = setTimeout(() => t.classList.remove('visible'), 2200);
   }
 
-  // ——— Tema claro/oscuro ———
-  function temaActual() {
-    return document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
-  }
+  // ——— Color de la barra del navegador (sigue al modo elegido en Almanaque) ———
   function actualizarColorBarra() {
     const color = getComputedStyle(document.documentElement).getPropertyValue('--fondo').trim();
     document.querySelector('meta[name="theme-color"]').setAttribute('content', color);
-  }
-  function alternarTema() {
-    const nuevo = temaActual() === 'dark' ? 'light' : 'dark';
-    document.documentElement.dataset.theme = nuevo;
-    try { localStorage.setItem(CLAVE_TEMA, nuevo); } catch (e) { /* sin almacenamiento */ }
-    actualizarColorBarra();
   }
 
   // ——— Bienvenida ———
@@ -411,7 +401,6 @@
   }
 
   async function iniciar() {
-    $('boton-tema').addEventListener('click', alternarTema);
     prepararBienvenida();
     actualizarColorBarra();
 

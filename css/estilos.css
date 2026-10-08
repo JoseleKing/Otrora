@@ -79,33 +79,17 @@ h1, h2 { outline: none; }
 a.boton { text-align: center; text-decoration: none; }
 .boton:active { transform: scale(.985); }
 .boton:disabled { opacity: .45; cursor: default; }
-.boton:focus-visible, .opcion:focus-visible, .boton-tema:focus-visible {
+.boton:focus-visible, .opcion:focus-visible {
   outline: 2px solid var(--rojo);
   outline-offset: 3px;
 }
 .boton-principal { background: var(--tinta); color: var(--fondo); }
 .boton-secundario { background: transparent; color: var(--tinta); }
 
-.boton-tema {
-  position: absolute;
-  top: max(10px, env(safe-area-inset-top));
-  right: 10px;
-  z-index: 5;
-  width: 44px;
-  height: 44px;
-  display: grid;
-  place-items: center;
-  border: 0;
-  border-radius: 50%;
-  background: transparent;
-  color: var(--tinta-suave);
-  cursor: pointer;
-}
-.boton-tema svg { width: 22px; height: 22px; }
 .boton-ayuda {
   position: absolute;
   top: max(10px, env(safe-area-inset-top));
-  right: 54px;
+  right: 10px;
   z-index: 5;
   width: 44px;
   height: 44px;
@@ -168,7 +152,7 @@ a.boton { text-align: center; text-decoration: none; }
   justify-content: space-between;
   gap: 12px;
   min-height: 44px;
-  padding-right: 96px; /* hueco para los botones de ayuda y tema */
+  padding-right: 54px; /* hueco para el botón de ayuda */
 }
 .progreso {
   display: flex;
@@ -407,10 +391,9 @@ a.boton { text-align: center; text-decoration: none; }
 .pantalla-final .boton + .boton { margin-top: 10px; }
 .pantalla-final #boton-repetir { margin-top: 24px; }
 
-/* Con la franja «☜ Regresar al Almanaque» arriba, los botones de ayuda y tema bajan a su altura. */
-#almanaque-volver { padding-right: 112px !important; }
-#almanaque-volver ~ .boton-ayuda,
-#almanaque-volver ~ .boton-tema { top: max(2px, calc(env(safe-area-inset-top) - 6px)); }
+/* Con la franja «☜ Regresar al Almanaque» arriba, el botón de ayuda baja a su altura. */
+#almanaque-volver { padding-right: 68px !important; }
+#almanaque-volver ~ .boton-ayuda { top: max(2px, calc(env(safe-area-inset-top) - 6px)); }
 #almanaque-volver ~ main .cabecera-juego { padding-right: 0; }
 
 /* ——— Hoja de bienvenida ——— */
