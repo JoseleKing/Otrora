@@ -311,8 +311,9 @@
 
   async function compartir() {
     const aciertos = respuestas().filter((r) => r && r.acierto).length;
-    const url = location.origin + location.pathname;
-    const texto = `Otrora · Día ${dia} · ${aciertos}/${palabras.length} ${textoResultado()}\n${url}`;
+    // Una marca por palabra: ▰ acertada, ▱ fallada. «Otrora nº 7 ▰▱▰ 2/3 aciertos» y el enlace.
+    const marcas = respuestas().map((r) => (r && r.acierto ? '▰' : '▱')).join('');
+    const texto = `Otrora nº ${dia} ${marcas} ${aciertos}/${palabras.length} aciertos\njoseleking.github.io/Otrora`;
     let copiado = false;
     try {
       await navigator.clipboard.writeText(texto);
