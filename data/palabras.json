@@ -1147,5 +1147,905 @@
     "explicacion": "Es una voz taína: los cronistas la recogieron como el nombre de las grandes tormentas de las Antillas, relacionado con una divinidad. Fue de las primeras palabras americanas en pasar al español, y de ahí al inglés hurricane.",
     "epoca": "Siglo XVI",
     "fuente": "DLE, s. v. huracán (por verificar el origen divino)"
+  },
+  {
+    "dia": 39, "orden": 1,
+    "palabra": "sargento",
+    "hoy": "suboficial del ejército",
+    "otrora": "sirviente",
+    "distractores": ["jinete", "jefe", "guardia"],
+    "explicacion": "Del francés sergent, del latín serviens, «el que sirve».",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. sargento"
+  },
+  {
+    "dia": 39, "orden": 2,
+    "palabra": "cuartel",
+    "hoy": "edificio para la tropa",
+    "otrora": "cuarta parte",
+    "distractores": ["torre de guardia", "campamento", "almacén"],
+    "explicacion": "De «cuarto»: cada una de las partes en que se dividía un campamento.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. cuartel"
+  },
+  {
+    "dia": 39, "orden": 3,
+    "palabra": "ganado",
+    "hoy": "conjunto de animales de granja",
+    "otrora": "lo que se ha ganado, los bienes",
+    "distractores": ["prado", "establo", "pastor"],
+    "explicacion": "Es el participio de «ganar»: los bienes ganados eran, ante todo, los animales.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. ganado"
+  },
+  {
+    "dia": 40, "orden": 1,
+    "palabra": "senado",
+    "hoy": "asamblea legislativa",
+    "otrora": "consejo de ancianos",
+    "distractores": ["asamblea de soldados", "tribunal", "templo"],
+    "explicacion": "Del latín senatus, de senex, «viejo».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. senado"
+  },
+  {
+    "dia": 40, "orden": 2,
+    "palabra": "burgués",
+    "hoy": "de clase media acomodada",
+    "otrora": "habitante de un burgo",
+    "distractores": ["comerciante", "señor feudal", "soldado"],
+    "explicacion": "De «burgo», la población que crecía junto a un castillo.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. burgués"
+  },
+  {
+    "dia": 40, "orden": 3,
+    "palabra": "deporte",
+    "hoy": "actividad física con reglas",
+    "otrora": "diversión, recreo",
+    "distractores": ["destierro", "ejercicio militar", "salud"],
+    "explicacion": "De «deportarse», «divertirse, descansar», del provenzal deport. Nada que ver con deportar, desterrar.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. deporte"
+  },
+  {
+    "dia": 41, "orden": 1,
+    "palabra": "traidor",
+    "hoy": "el que traiciona",
+    "otrora": "el que entrega",
+    "distractores": ["el que huye", "el que miente", "el que espía"],
+    "explicacion": "Del latín traditor, de tradere, «entregar», la misma familia que «tradición».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. traidor"
+  },
+  {
+    "dia": 41, "orden": 2,
+    "palabra": "alférez",
+    "hoy": "oficial del ejército",
+    "otrora": "jinete",
+    "distractores": ["arquero", "herrero", "sacerdote"],
+    "explicacion": "Del árabe hispánico alfáris, «el jinete».",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. alférez"
+  },
+  {
+    "dia": 41, "orden": 3,
+    "palabra": "academia",
+    "hoy": "centro de enseñanza; sociedad de sabios o artistas",
+    "otrora": "jardín de Academo",
+    "distractores": ["escuela de soldados", "salón de baile", "templo de las musas"],
+    "explicacion": "Platón enseñaba en un jardín de las afueras de Atenas dedicado al héroe Academo, y su escuela tomó ese nombre.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. academia"
+  },
+  {
+    "dia": 42, "orden": 1,
+    "palabra": "familia",
+    "hoy": "grupo de parientes",
+    "otrora": "esclavos y criados de una casa",
+    "distractores": ["los hijos", "los antepasados", "la aldea"],
+    "explicacion": "Del latín familia, de famulus, «sirviente».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. familia"
+  },
+  {
+    "dia": 42, "orden": 2,
+    "palabra": "síntoma",
+    "hoy": "señal de una enfermedad",
+    "otrora": "coincidencia, lo que ocurre a la vez",
+    "distractores": ["dolor", "fiebre", "remedio"],
+    "explicacion": "Del griego sýmptoma, de sympíptein, «caer juntos, coincidir».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. síntoma"
+  },
+  {
+    "dia": 42, "orden": 3,
+    "palabra": "cementerio",
+    "hoy": "lugar donde se entierra a los muertos",
+    "otrora": "dormitorio",
+    "distractores": ["jardín", "cueva", "sótano"],
+    "explicacion": "Del griego koimetérion, «dormitorio»: los muertos duermen en espera de la resurrección.",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. cementerio"
+  },
+  {
+    "dia": 43, "orden": 1,
+    "palabra": "pantalón",
+    "hoy": "prenda que cubre las piernas por separado",
+    "otrora": "un personaje de la comedia italiana",
+    "distractores": ["un tejido de lana", "un soldado suizo", "un barco"],
+    "explicacion": "Del francés pantalon, por Pantalone, el viejo avaro de la comedia del arte, que llevaba calzas largas.",
+    "epoca": "Siglo XVII",
+    "fuente": "DLE, s. v. pantalón"
+  },
+  {
+    "dia": 43, "orden": 2,
+    "palabra": "trofeo",
+    "hoy": "premio de una competición",
+    "otrora": "armas del enemigo vencido colgadas de un árbol",
+    "distractores": ["corona de laurel", "copa de oro", "estatua"],
+    "explicacion": "Del griego trópaion, de tropé, «vuelta, huida». Donde el enemigo se daba a la fuga se colgaban sus armas.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. trofeo"
+  },
+  {
+    "dia": 43, "orden": 3,
+    "palabra": "déspota",
+    "hoy": "gobernante que abusa de su poder",
+    "otrora": "dueño de la casa, amo",
+    "distractores": ["juez", "esclavo", "general"],
+    "explicacion": "Del griego despótes, «amo, señor de la casa».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. déspota"
+  },
+  {
+    "dia": 44, "orden": 1,
+    "palabra": "estadio",
+    "hoy": "recinto para competiciones",
+    "otrora": "medida de longitud",
+    "distractores": ["templo de Zeus", "graderío de piedra", "pista de carros"],
+    "explicacion": "Del griego stádion, unos 185 metros. La carrera de esa longitud dio nombre a la pista y luego al recinto.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. estadio"
+  },
+  {
+    "dia": 44, "orden": 2,
+    "palabra": "palacio",
+    "hoy": "casa grande y lujosa",
+    "otrora": "el monte Palatino",
+    "distractores": ["fortaleza", "templo", "jardín"],
+    "explicacion": "Los emperadores romanos vivían en el Palatino, una de las siete colinas de Roma.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. palacio; etimología latina (Palatium)"
+  },
+  {
+    "dia": 44, "orden": 3,
+    "palabra": "limbo",
+    "hoy": "lugar de las almas sin bautizar; estar distraído",
+    "otrora": "borde, orla",
+    "distractores": ["nube", "sueño", "desierto"],
+    "explicacion": "Del latín limbus, «orla, borde»: el limbo estaba en el borde del infierno.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. limbo"
+  },
+  {
+    "dia": 45, "orden": 1,
+    "palabra": "marqués",
+    "hoy": "título nobiliario",
+    "otrora": "señor de una tierra fronteriza",
+    "distractores": ["señor del mar", "caballero", "consejero"],
+    "explicacion": "Del occitano marqués, de marca, el territorio de frontera que defendía.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. marqués"
+  },
+  {
+    "dia": 45, "orden": 2,
+    "palabra": "piano",
+    "hoy": "instrumento de teclado",
+    "otrora": "suave",
+    "distractores": ["fuerte", "llano", "lento"],
+    "explicacion": "Es el acortamiento de pianoforte, «suave-fuerte», porque, a diferencia del clave, podía sonar con poca o mucha fuerza.",
+    "epoca": "Siglo XVIII",
+    "fuente": "DLE, s. v. piano"
+  },
+  {
+    "dia": 45, "orden": 3,
+    "palabra": "programa",
+    "hoy": "plan; emisión de radio o televisión",
+    "otrora": "aviso público por escrito",
+    "distractores": ["libro de música", "lista de ciudadanos", "mapa"],
+    "explicacion": "Del griego prógramma, de prográphein, «anunciar por escrito».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. programa"
+  },
+  {
+    "dia": 46, "orden": 1,
+    "palabra": "apóstol",
+    "hoy": "cada uno de los doce discípulos de Jesús",
+    "otrora": "enviado",
+    "distractores": ["pescador", "amigo", "maestro"],
+    "explicacion": "Del griego apóstolos, «enviado».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. apóstol"
+  },
+  {
+    "dia": 46, "orden": 2,
+    "palabra": "arsenal",
+    "hoy": "depósito de armas",
+    "otrora": "astillero, taller",
+    "distractores": ["fortaleza", "cuadra", "polvorín"],
+    "explicacion": "Del árabe dār aṣ-ṣināʿa, «casa de la fabricación», a través del italiano. El arsenal de Venecia construía galeras.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. arsenal"
+  },
+  {
+    "dia": 46, "orden": 3,
+    "palabra": "esposa",
+    "hoy": "mujer casada",
+    "otrora": "prometida",
+    "distractores": ["mujer libre", "viuda", "hermana"],
+    "explicacion": "Del latín sponsa, «prometida», de spondere, «prometer». Las esposas de los presos también unen.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. esposo"
+  },
+  {
+    "dia": 47, "orden": 1,
+    "palabra": "calendario",
+    "hoy": "sistema de división del tiempo",
+    "otrora": "libro de cuentas de los prestamistas",
+    "distractores": ["reloj de sol", "lista de santos", "registro de cosechas"],
+    "explicacion": "Del latín calendarium, el libro donde los prestamistas anotaban los intereses que vencían en las calendas, el primer día de cada mes.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. calendario; etimología latina (calendarium)"
+  },
+  {
+    "dia": 47, "orden": 2,
+    "palabra": "autopsia",
+    "hoy": "examen de un cadáver para saber de qué murió",
+    "otrora": "ver con los propios ojos",
+    "distractores": ["cortar en dos", "estudiar los huesos", "mirar hacia dentro"],
+    "explicacion": "Del griego autopsía, de autós, «uno mismo», y ópsis, «vista». Era comprobar algo en persona, sin fiarse de lo que contaban otros.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. autopsia; etimología griega"
+  },
+  {
+    "dia": 47, "orden": 3,
+    "palabra": "triunfo",
+    "hoy": "victoria",
+    "otrora": "desfile del general vencedor por Roma",
+    "distractores": ["corona de olivo", "canto de victoria", "arco de piedra"],
+    "explicacion": "Del latín triumphus. El general entraba en carro con sus tropas y botín, y un esclavo le recordaba al oído que era mortal.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. triunfo"
+  },
+  {
+    "dia": 48, "orden": 1,
+    "palabra": "mártir",
+    "hoy": "persona que muere por su fe",
+    "otrora": "testigo",
+    "distractores": ["víctima", "santo", "soldado"],
+    "explicacion": "Del griego mártys, «testigo»: los mártires daban testimonio de su fe.",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. mártir"
+  },
+  {
+    "dia": 48, "orden": 2,
+    "palabra": "ironía",
+    "hoy": "burla fina que da a entender lo contrario de lo que se dice",
+    "otrora": "disimulo, fingir que no se sabe",
+    "distractores": ["sabiduría", "pregunta capciosa", "enfado contenido"],
+    "explicacion": "Del griego eironeía, «disimulo». Sócrates fingía no saber nada para que sus interlocutores cayeran en contradicción.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. ironía"
+  },
+  {
+    "dia": 48, "orden": 3,
+    "palabra": "domingo",
+    "hoy": "séptimo día de la semana",
+    "otrora": "del Señor",
+    "distractores": ["del sol", "de descanso", "de mercado"],
+    "explicacion": "Del latín dies dominicus, «día del Señor». En inglés y alemán, en cambio, sigue siendo el día del sol.",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. domingo"
+  },
+  {
+    "dia": 49, "orden": 1,
+    "palabra": "cancelar",
+    "hoy": "anular, dejar sin efecto",
+    "otrora": "tachar un escrito con rayas cruzadas",
+    "distractores": ["cerrar con candado", "encender las velas", "cantar a coro"],
+    "explicacion": "Del latín cancellare, de cancelli, «rejilla, celosía»: un documento se anulaba trazando sobre él líneas en forma de reja.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. cancelar; etimología latina (cancellare, cancelli)"
+  },
+  {
+    "dia": 49, "orden": 2,
+    "palabra": "perfume",
+    "hoy": "sustancia de olor agradable",
+    "otrora": "a través del humo",
+    "distractores": ["agua de rosas", "flor seca", "aceite"],
+    "explicacion": "Del italiano perfumare, de per, «a través», y fumare, «echar humo»: los primeros perfumes eran humos aromáticos.",
+    "epoca": "Renacimiento",
+    "fuente": "DLE, s. v. perfume"
+  },
+  {
+    "dia": 49, "orden": 3,
+    "palabra": "fortuna",
+    "hoy": "gran riqueza",
+    "otrora": "suerte; la diosa Fortuna",
+    "distractores": ["tesoro escondido", "herencia", "moneda"],
+    "explicacion": "Del latín fortuna, «suerte», y la diosa que la repartía con su rueda.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. fortuna"
+  },
+  {
+    "dia": 50, "orden": 1,
+    "palabra": "escena",
+    "hoy": "parte del teatro donde se representa",
+    "otrora": "tienda o barraca",
+    "distractores": ["máscara", "telón", "coro"],
+    "explicacion": "Del griego skené, «tienda». Era la caseta del fondo del teatro, donde se cambiaban los actores.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. escena"
+  },
+  {
+    "dia": 50, "orden": 2,
+    "palabra": "ovación",
+    "hoy": "aplauso ruidoso",
+    "otrora": "triunfo menor de los generales romanos",
+    "distractores": ["sacrificio de ovejas", "huevo de oro", "canto de pastores"],
+    "explicacion": "Del latín ovatio. Era un triunfo de segunda: el general entraba en Roma a pie o a caballo, no en carro.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. ovación"
+  },
+  {
+    "dia": 50, "orden": 3,
+    "palabra": "profesor",
+    "hoy": "persona que enseña",
+    "otrora": "el que declara en público",
+    "distractores": ["el que va delante", "el que sabe mucho", "el que castiga"],
+    "explicacion": "Del latín professor, de profiteri, «declarar públicamente», también la ciencia que uno profesa.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. profesor"
+  },
+  {
+    "dia": 51, "orden": 1,
+    "palabra": "dinero",
+    "hoy": "moneda corriente",
+    "otrora": "moneda romana de plata",
+    "distractores": ["oro en polvo", "deuda", "barra de cobre"],
+    "explicacion": "Del latín denarius, «de diez», porque al principio valía diez ases.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. dinero; etimología latina (denarius)"
+  },
+  {
+    "dia": 51, "orden": 2,
+    "palabra": "atleta",
+    "hoy": "deportista",
+    "otrora": "el que compite por un premio",
+    "distractores": ["el que corre desnudo", "el gigante", "el que levanta pesos"],
+    "explicacion": "Del griego athletés, de âthlon, «premio».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. atleta"
+  },
+  {
+    "dia": 51, "orden": 3,
+    "palabra": "película",
+    "hoy": "obra de cine",
+    "otrora": "piel pequeña, membrana",
+    "distractores": ["rollo", "fotografía", "sombra"],
+    "explicacion": "Del latín pellicula, diminutivo de pellis, «piel». Todavía llamamos película a una capa muy fina.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. película"
+  },
+  {
+    "dia": 52, "orden": 1,
+    "palabra": "crédito",
+    "hoy": "préstamo; buena fama",
+    "otrora": "creencia, confianza",
+    "distractores": ["moneda de oro", "permiso", "deuda"],
+    "explicacion": "Del latín creditum, de credere, «creer». Dar crédito es fiarse.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. crédito"
+  },
+  {
+    "dia": 52, "orden": 2,
+    "palabra": "secretario",
+    "hoy": "persona que lleva la correspondencia y los papeles de alguien",
+    "otrora": "el que guarda los secretos",
+    "distractores": ["el que escribe deprisa", "el que custodia el sello real", "el que lee en voz alta"],
+    "explicacion": "Del latín medieval secretarius, de secretum, «secreto». Era el hombre de confianza a quien se encomendaban los asuntos reservados.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. secretario"
+  },
+  {
+    "dia": 52, "orden": 3,
+    "palabra": "regalo",
+    "hoy": "obsequio",
+    "otrora": "gusto, deleite, comodidad",
+    "distractores": ["tributo al rey", "propina", "ofrenda"],
+    "explicacion": "El DLE aún recoge «regalo» como gusto o complacencia: «vivir con regalo» era vivir con comodidad.",
+    "epoca": "Siglo de Oro",
+    "fuente": "DLE, s. v. regalo"
+  },
+  {
+    "dia": 53, "orden": 1,
+    "palabra": "anécdota",
+    "hoy": "relato breve de un suceso curioso",
+    "otrora": "cosa inédita, no publicada",
+    "distractores": ["cuento para niños", "chiste picante", "recuerdo de la infancia"],
+    "explicacion": "Del griego anékdotos, «inédito». Procopio de Cesarea llamó así a su «Historia secreta», llena de chismes de la corte de Justiniano, que no publicó en vida.",
+    "epoca": "Bajo Imperio romano",
+    "fuente": "DLE, s. v. anécdota; Procopio, Anékdota"
+  },
+  {
+    "dia": 53, "orden": 2,
+    "palabra": "parroquia",
+    "hoy": "iglesia de un barrio",
+    "otrora": "vecindario de forasteros",
+    "distractores": ["casa del cura", "campo de olivos", "limosna"],
+    "explicacion": "Del griego paroikía, de pároikos, «el que vive al lado, el forastero».",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. parroquia"
+  },
+  {
+    "dia": 53, "orden": 3,
+    "palabra": "novio",
+    "hoy": "persona con quien se tiene una relación amorosa",
+    "otrora": "recién casado",
+    "distractores": ["pretendiente", "joven soltero", "padrino"],
+    "explicacion": "Del latín novius, de novus, «nuevo». El DLE aún recoge el sentido de «persona recién casada».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. novio"
+  },
+  {
+    "dia": 54, "orden": 1,
+    "palabra": "ejército",
+    "hoy": "conjunto de fuerzas armadas",
+    "otrora": "ejercicio, entrenamiento",
+    "distractores": ["muralla", "legión", "campamento"],
+    "explicacion": "Del latín exercitus, «ejercicio».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. ejército"
+  },
+  {
+    "dia": 54, "orden": 2,
+    "palabra": "diablo",
+    "hoy": "demonio, espíritu del mal",
+    "otrora": "calumniador",
+    "distractores": ["serpiente", "macho cabrío", "fuego"],
+    "explicacion": "Del griego diábolos, «el que calumnia, el que separa».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. diablo"
+  },
+  {
+    "dia": 54, "orden": 3,
+    "palabra": "obispo",
+    "hoy": "prelado de una diócesis",
+    "otrora": "inspector, vigilante",
+    "distractores": ["anciano", "pastor", "rey"],
+    "explicacion": "Del griego epískopos, «el que observa desde arriba».",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. obispo"
+  },
+  {
+    "dia": 55, "orden": 1,
+    "palabra": "genio",
+    "hoy": "capacidad extraordinaria; persona que la tiene",
+    "otrora": "espíritu protector",
+    "distractores": ["mal carácter", "lámpara mágica", "abuelo"],
+    "explicacion": "Del latín genius, el espíritu que acompañaba a cada persona desde su nacimiento.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. genio"
+  },
+  {
+    "dia": 55, "orden": 2,
+    "palabra": "antología",
+    "hoy": "colección de textos escogidos",
+    "otrora": "ramillete de flores",
+    "distractores": ["libro de leyes", "colección de monedas", "ciencia de los antiguos"],
+    "explicacion": "Del griego anthología, de ánthos, «flor», y légein, «escoger». Los poemas elegidos eran como flores recogidas en un ramo.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. antología"
+  },
+  {
+    "dia": 55, "orden": 3,
+    "palabra": "jueves",
+    "hoy": "cuarto día de la semana",
+    "otrora": "de Júpiter",
+    "distractores": ["de la justicia", "del juego", "de Juno"],
+    "explicacion": "Del latín Iovis dies, «día de Júpiter». Martes es de Marte; miércoles, de Mercurio; viernes, de Venus.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. jueves"
+  },
+  {
+    "dia": 56, "orden": 1,
+    "palabra": "payaso",
+    "hoy": "artista de circo que hace reír",
+    "otrora": "jergón de paja",
+    "distractores": ["bufón del rey", "mendigo", "pastor"],
+    "explicacion": "Del italiano pagliaccio, de paglia, «paja»: el traje holgado del personaje recordaba la funda de un jergón.",
+    "epoca": "Siglo XVII",
+    "fuente": "DLE, s. v. payaso; etimología italiana (pagliaccio)"
+  },
+  {
+    "dia": 56, "orden": 2,
+    "palabra": "infante",
+    "hoy": "niño; hijo del rey",
+    "otrora": "que no habla",
+    "distractores": ["que no camina", "heredero", "que llora"],
+    "explicacion": "Del latín infans, «que no habla». La infantería era la tropa de los más jóvenes, que iban a pie.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. infante"
+  },
+  {
+    "dia": 56, "orden": 3,
+    "palabra": "alarma",
+    "hoy": "aviso de peligro",
+    "otrora": "¡a las armas!",
+    "distractores": ["campana", "fuego", "silencio"],
+    "explicacion": "Del grito italiano all'arme!, «¡a las armas!».",
+    "epoca": "Renacimiento",
+    "fuente": "DLE, s. v. alarma"
+  },
+  {
+    "dia": 57, "orden": 1,
+    "palabra": "equipo",
+    "hoy": "grupo de personas que trabajan juntas",
+    "otrora": "lo necesario para una nave",
+    "distractores": ["caballería", "uniforme", "familia"],
+    "explicacion": "De «equipar», del francés équiper, «proveer un barco de lo necesario».",
+    "epoca": "Siglo XVIII",
+    "fuente": "DLE, s. v. equipo; etimología francesa (équiper)"
+  },
+  {
+    "dia": 57, "orden": 2,
+    "palabra": "hincha",
+    "hoy": "seguidor de un equipo",
+    "otrora": "el que inflaba los balones",
+    "distractores": ["el que gritaba en la grada", "el que pisaba el campo", "el que vendía entradas"],
+    "explicacion": "Según la anécdota más repetida, en el Montevideo de principios del siglo XX el encargado de hinchar los balones del Nacional animaba a gritos, y su apodo pasó a todos los aficionados.",
+    "epoca": "Siglo XX",
+    "fuente": "DLE, s. v. hincha; anécdota uruguaya, por verificar"
+  },
+  {
+    "dia": 57, "orden": 3,
+    "palabra": "bigote",
+    "hoy": "pelo sobre el labio superior",
+    "otrora": "juramento germánico, «¡por Dios!»",
+    "distractores": ["barba de chivo", "peine", "casco"],
+    "explicacion": "Se suele explicar por la exclamación germánica bî got, «por Dios», que soltaban los soldados de largos bigotes.",
+    "epoca": "Siglo XVI",
+    "fuente": "DLE, s. v. bigote; origen discutido"
+  },
+  {
+    "dia": 58, "orden": 1,
+    "palabra": "hidalgo",
+    "hoy": "noble de baja categoría",
+    "otrora": "hijo de algo",
+    "distractores": ["caballero sin caballo", "hijo de la tierra", "señor del castillo"],
+    "explicacion": "Es «hijo de algo», es decir, de alguien con bienes o linaje.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. hidalgo"
+  },
+  {
+    "dia": 58, "orden": 2,
+    "palabra": "salario",
+    "hoy": "sueldo que se cobra por un trabajo",
+    "otrora": "ración de sal",
+    "distractores": ["paga de los marineros", "moneda de cobre", "pago en trigo"],
+    "explicacion": "Del latín salarium, derivado de sal. Se suele contar que era lo que se daba a los soldados romanos para comprar sal, aunque los historiadores lo discuten.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. salario; etimología latina (salarium, sal); la paga en sal, por verificar"
+  },
+  {
+    "dia": 58, "orden": 3,
+    "palabra": "ángel",
+    "hoy": "ser espiritual",
+    "otrora": "mensajero",
+    "distractores": ["ser con alas", "niño", "estrella"],
+    "explicacion": "Del griego ángelos, «mensajero».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. ángel"
+  },
+  {
+    "dia": 59, "orden": 1,
+    "palabra": "museo",
+    "hoy": "lugar donde se exponen obras de arte o de ciencia",
+    "otrora": "templo de las musas",
+    "distractores": ["palacio del rey", "almacén del puerto", "casa de baños"],
+    "explicacion": "Del griego mouseîon, el santuario de las musas. El de Alejandría era un centro de sabios con su célebre biblioteca.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. museo"
+  },
+  {
+    "dia": 59, "orden": 2,
+    "palabra": "iglesia",
+    "hoy": "templo cristiano",
+    "otrora": "asamblea",
+    "distractores": ["casa de oración", "tumba", "campanario"],
+    "explicacion": "Del griego ekklesía, «asamblea», la reunión de los fieles.",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. iglesia"
+  },
+  {
+    "dia": 59, "orden": 3,
+    "palabra": "vulgar",
+    "hoy": "ordinario, de mal gusto",
+    "otrora": "del pueblo, común",
+    "distractores": ["borracho", "pobre", "maleducado"],
+    "explicacion": "Del latín vulgaris, de vulgus, «el pueblo». El latín vulgar era el que se hablaba en la calle.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. vulgar"
+  },
+  {
+    "dia": 60, "orden": 1,
+    "palabra": "maestro",
+    "hoy": "persona que enseña; el que domina un oficio",
+    "otrora": "el que es más, el superior",
+    "distractores": ["el que habla bien", "el que cuida niños", "el hermano mayor"],
+    "explicacion": "Del latín magister, de magis, «más». Su contrario es minister, «el que es menos», de donde viene ministro.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. maestro; etimología latina (magister, magis)"
+  },
+  {
+    "dia": 60, "orden": 2,
+    "palabra": "problema",
+    "hoy": "cuestión que hay que resolver",
+    "otrora": "obstáculo, lo que se pone delante",
+    "distractores": ["enigma", "riña", "pregunta de examen"],
+    "explicacion": "Del griego próblema, de probállein, «lanzar o poner delante».",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. problema"
+  },
+  {
+    "dia": 60, "orden": 3,
+    "palabra": "feria",
+    "hoy": "mercado en un lugar señalado; fiestas",
+    "otrora": "día de fiesta",
+    "distractores": ["plaza mayor", "ganado", "mercancía"],
+    "explicacion": "Del latín feria, «día festivo». En el lenguaje de la Iglesia, «feria» es todavía cada día de la semana.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. feria"
+  },
+  {
+    "dia": 61, "orden": 1,
+    "palabra": "papel",
+    "hoy": "lámina fina para escribir",
+    "otrora": "papiro",
+    "distractores": ["tela de lino", "pergamino", "tablilla de cera"],
+    "explicacion": "Llegó por el catalán paper, del latín papyrus, la planta egipcia con que se hacían las primeras hojas.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. papel"
+  },
+  {
+    "dia": 61, "orden": 2,
+    "palabra": "matrimonio",
+    "hoy": "unión de dos personas",
+    "otrora": "oficio de madre",
+    "distractores": ["casa compartida", "contrato", "fiesta"],
+    "explicacion": "Del latín matrimonium, de mater, «madre».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. matrimonio"
+  },
+  {
+    "dia": 61, "orden": 3,
+    "palabra": "tirano",
+    "hoy": "gobernante cruel",
+    "otrora": "señor absoluto, sin sentido negativo",
+    "distractores": ["verdugo", "general", "rey extranjero"],
+    "explicacion": "Del griego týrannos: el que tomaba el poder sin herencia; muchos gobernaron bien.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. tirano"
+  },
+  {
+    "dia": 62, "orden": 1,
+    "palabra": "catástrofe",
+    "hoy": "desgracia muy grande",
+    "otrora": "desenlace de una tragedia",
+    "distractores": ["terremoto", "caída de una estrella", "naufragio"],
+    "explicacion": "Del griego katastrophé, «vuelta, giro». En el teatro griego era el desenlace de la obra, que en la tragedia solía ser desgraciado.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. catástrofe; acepción teatral"
+  },
+  {
+    "dia": 62, "orden": 2,
+    "palabra": "teoría",
+    "hoy": "conocimiento especulativo; hipótesis",
+    "otrora": "contemplación, ver un espectáculo",
+    "distractores": ["discusión", "cálculo", "ley"],
+    "explicacion": "Del griego theoría, de theorós, «espectador». Teorizar era, en origen, mirar con atención.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. teoría"
+  },
+  {
+    "dia": 62, "orden": 3,
+    "palabra": "banco",
+    "hoy": "entidad financiera",
+    "otrora": "asiento largo",
+    "distractores": ["caja fuerte", "orilla del río", "tesoro"],
+    "explicacion": "Del germánico bank. Los cambistas medievales trabajaban en las plazas sobre un banco.",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. banco"
+  },
+  {
+    "dia": 63, "orden": 1,
+    "palabra": "sarcófago",
+    "hoy": "sepulcro de piedra",
+    "otrora": "que come carne",
+    "distractores": ["caja de oro", "piedra tallada", "tumba del rey"],
+    "explicacion": "Del griego sarkophágos: se creía que cierta piedra consumía los cadáveres.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. sarcófago"
+  },
+  {
+    "dia": 63, "orden": 2,
+    "palabra": "salvaje",
+    "hoy": "no domesticado; violento",
+    "otrora": "de la selva",
+    "distractores": ["extranjero", "desnudo", "nómada"],
+    "explicacion": "Del latín silvaticus, de silva, «bosque».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. salvaje"
+  },
+  {
+    "dia": 63, "orden": 3,
+    "palabra": "cosmético",
+    "hoy": "producto para el cuidado del rostro y el cuerpo",
+    "otrora": "que ordena y adorna",
+    "distractores": ["que viene del cielo", "que huele bien", "que cura la piel"],
+    "explicacion": "Del griego kosmetikós, de kósmos, «orden, adorno», la misma palabra que dio cosmos, el universo ordenado.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. cosmético"
+  },
+  {
+    "dia": 64, "orden": 1,
+    "palabra": "dictador",
+    "hoy": "gobernante que no respeta las leyes",
+    "otrora": "magistrado romano con plenos poderes temporales",
+    "distractores": ["el que dicta cartas", "orador", "verdugo"],
+    "explicacion": "En la República romana, el Senado nombraba un dictador para las emergencias, como mucho por seis meses.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. dictador"
+  },
+  {
+    "dia": 64, "orden": 2,
+    "palabra": "catedral",
+    "hoy": "iglesia principal de una diócesis",
+    "otrora": "silla del obispo",
+    "distractores": ["torre", "campana", "asamblea"],
+    "explicacion": "De cathedra, «silla, cátedra»: la iglesia catedral es la que tiene la sede del obispo.",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. catedral"
+  },
+  {
+    "dia": 64, "orden": 3,
+    "palabra": "alerta",
+    "hoy": "vigilancia ante un peligro",
+    "otrora": "¡en lo alto!, ¡en pie!",
+    "distractores": ["¡silencio!", "¡corre!", "¡fuego!"],
+    "explicacion": "Del italiano all'erta, «en lo alto», el grito para que los centinelas vigilaran.",
+    "epoca": "Renacimiento",
+    "fuente": "DLE, s. v. alerta"
+  },
+  {
+    "dia": 65, "orden": 1,
+    "palabra": "examen",
+    "hoy": "prueba para comprobar lo que se sabe",
+    "otrora": "fiel de la balanza",
+    "distractores": ["pesa de plomo", "lista de alumnos", "castigo"],
+    "explicacion": "Del latín examen, la aguja que marca el equilibrio en la balanza. Examinar era pesar con cuidado.",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. examen; etimología latina"
+  },
+  {
+    "dia": 65, "orden": 2,
+    "palabra": "paraíso",
+    "hoy": "lugar de felicidad",
+    "otrora": "jardín cercado",
+    "distractores": ["isla del sur", "monte alto", "cielo estrellado"],
+    "explicacion": "Del avéstico pairidaeza, «recinto cercado», a través del griego parádeisos. Los reyes persas tenían parques así.",
+    "epoca": "Persia antigua",
+    "fuente": "DLE, s. v. paraíso"
+  },
+  {
+    "dia": 65, "orden": 3,
+    "palabra": "monje",
+    "hoy": "religioso de un monasterio",
+    "otrora": "solitario",
+    "distractores": ["sabio", "calvo", "pobre"],
+    "explicacion": "Del griego monachós, de mónos, «solo». Los primeros monjes vivían aislados en el desierto.",
+    "epoca": "Latín cristiano",
+    "fuente": "DLE, s. v. monje"
+  },
+  {
+    "dia": 66, "orden": 1,
+    "palabra": "crisis",
+    "hoy": "situación grave y decisiva",
+    "otrora": "decisión, juicio",
+    "distractores": ["enfermedad", "terremoto", "hambruna"],
+    "explicacion": "Del griego krísis, «decisión», de krínein, «separar, juzgar». En medicina era el momento en que la enfermedad se decidía hacia la curación o la muerte.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. crisis"
+  },
+  {
+    "dia": 66, "orden": 2,
+    "palabra": "mapa",
+    "hoy": "representación de la Tierra o de una parte",
+    "otrora": "mantel, paño",
+    "distractores": ["piel de oveja", "piedra tallada", "dibujo de las estrellas"],
+    "explicacion": "Del latín mappa, «mantel, servilleta». El mappa mundi medieval era, literalmente, el «paño del mundo».",
+    "epoca": "Edad Media",
+    "fuente": "DLE, s. v. mapa; etimología latina (mappa)"
+  },
+  {
+    "dia": 66, "orden": 3,
+    "palabra": "orquesta",
+    "hoy": "conjunto de músicos",
+    "otrora": "espacio del teatro para el coro y la danza",
+    "distractores": ["flauta doble", "banda militar", "himno"],
+    "explicacion": "Del griego orchéstra, de orchéisthai, «danzar». Aún se llama así al foso de los músicos.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. orquesta"
+  },
+  {
+    "dia": 67, "orden": 1,
+    "palabra": "taberna",
+    "hoy": "bar popular",
+    "otrora": "tienda, choza de tablas",
+    "distractores": ["bodega", "cueva", "posada"],
+    "explicacion": "Del latín taberna, «choza, tienda».",
+    "epoca": "Latín clásico",
+    "fuente": "DLE, s. v. taberna"
+  },
+  {
+    "dia": 67, "orden": 2,
+    "palabra": "idea",
+    "hoy": "representación de algo en la mente",
+    "otrora": "aspecto, forma visible",
+    "distractores": ["sueño", "luz", "palabra"],
+    "explicacion": "Del griego idéa, de ideîn, «ver». Platón llamó así a las formas eternas de las cosas.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. idea"
+  },
+  {
+    "dia": 67, "orden": 3,
+    "palabra": "gaceta",
+    "hoy": "publicación periódica",
+    "otrora": "moneda veneciana",
+    "distractores": ["pliego de ventas", "aviso de guerra", "pájaro parlanchín"],
+    "explicacion": "Del italiano gazzetta, una moneda de poco valor: lo que costaba la hoja de noticias en la Venecia del siglo XVI.",
+    "epoca": "Siglo XVI",
+    "fuente": "DLE, s. v. gaceta"
+  },
+  {
+    "dia": 68, "orden": 1,
+    "palabra": "marioneta",
+    "hoy": "títere movido con hilos",
+    "otrora": "figurilla de la Virgen",
+    "distractores": ["muñeca de trapo", "bailarina", "niña"],
+    "explicacion": "Del francés marionnette, diminutivo de Marion, «María»: así se llamaron unas figurillas de la Virgen.",
+    "epoca": "Siglo XVI",
+    "fuente": "DLE, s. v. marioneta; etimología francesa (marionnette)"
+  },
+  {
+    "dia": 68, "orden": 2,
+    "palabra": "duque",
+    "hoy": "título nobiliario",
+    "otrora": "jefe militar, guía",
+    "distractores": ["dueño de tierras", "príncipe", "juez"],
+    "explicacion": "Del latín dux, «guía, jefe».",
+    "epoca": "Bajo Imperio romano",
+    "fuente": "DLE, s. v. duque"
+  },
+  {
+    "dia": 68, "orden": 3,
+    "palabra": "evangelio",
+    "hoy": "relato de la vida de Jesús",
+    "otrora": "buena noticia",
+    "distractores": ["libro sagrado", "canto", "carta"],
+    "explicacion": "Del griego euangélion, «buena noticia»; también era la propina que se daba al mensajero que la traía.",
+    "epoca": "Grecia antigua",
+    "fuente": "DLE, s. v. evangelio"
   }
 ]
