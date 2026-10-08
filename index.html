@@ -18,10 +18,10 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&display=swap">
   <link rel="stylesheet" href="css/estilos.css">
   <script>
-    // Aplica el tema guardado antes de pintar, para evitar un parpadeo.
+    // Modo claro u oscuro común a Almanaque y a todos sus juegos; sin elegir, claro.
+    // Se aplica antes de pintar, para evitar un parpadeo.
     try {
-      var t = localStorage.getItem('otrora:tema');
-      if (t === 'claro' || t === 'oscuro') document.documentElement.dataset.theme = t === 'claro' ? 'light' : 'dark';
+      if (localStorage.getItem('almanaque:tema') === 'dark') document.documentElement.dataset.theme = 'dark';
     } catch (e) {}
   </script>
 </head>

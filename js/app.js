@@ -5,7 +5,7 @@
   const FECHA_INICIO = '2026-10-04';      // Fecha del «Día 1» (hora de Madrid), en formato AAAA-MM-DD
   const ZONA_HORARIA = 'Europe/Madrid';
   const CLAVE_ESTADO = 'otrora:estado';
-  const CLAVE_TEMA = 'otrora:tema';
+  const CLAVE_TEMA = 'almanaque:tema'; // común a Almanaque y a todos sus juegos
   const CLAVE_BIENVENIDA = 'otrora:bienvenida';
   const ACIERTO = '⏳';
   const FALLO = '⌛';
@@ -343,9 +343,7 @@
 
   // ——— Tema claro/oscuro ———
   function temaActual() {
-    const forzado = document.documentElement.dataset.theme;
-    if (forzado) return forzado;
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    return document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
   }
   function actualizarColorBarra() {
     const color = getComputedStyle(document.documentElement).getPropertyValue('--fondo').trim();
@@ -354,7 +352,7 @@
   function alternarTema() {
     const nuevo = temaActual() === 'dark' ? 'light' : 'dark';
     document.documentElement.dataset.theme = nuevo;
-    try { localStorage.setItem(CLAVE_TEMA, nuevo === 'dark' ? 'oscuro' : 'claro'); } catch (e) { /* sin almacenamiento */ }
+    try { localStorage.setItem(CLAVE_TEMA, nuevo); } catch (e) { /* sin almacenamiento */ }
     actualizarColorBarra();
   }
 
@@ -415,7 +413,6 @@
   async function iniciar() {
     $('boton-tema').addEventListener('click', alternarTema);
     prepararBienvenida();
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', actualizarColorBarra);
     actualizarColorBarra();
 
     const prueba = diaDePrueba();

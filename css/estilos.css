@@ -17,17 +17,6 @@
   color-scheme: light;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --fondo: #15110E;
-    --papel: #1E1915;
-    --tinta: #EFE6D6;
-    --tinta-suave: #A89C8C;
-    --linea: #3B332C;
-    --sombra: 0 8px 24px -12px rgba(0, 0, 0, .6);
-    color-scheme: dark;
-  }
-}
 :root[data-theme="dark"] {
   --fondo: #15110E;
   --papel: #1E1915;
