@@ -10,6 +10,7 @@
   const FALLO = '⌛';
   const LETRAS = ['A', 'B', 'C', 'D', 'E'];
   const DURACION_PORTADA = 1500;          // ms que se ve la portada al abrir
+  const PORTADA_PINTADA = 1400;           // ms mínimos desde que se pinta, para que el reloj acabe de girar
 
   const $ = (id) => document.getElementById(id);
 
@@ -389,9 +390,12 @@
   }
 
   // La portada se ve un instante (contado desde que empezó a cargar la página) y se desvanece.
+  // Si tarda en pintarse (la primera visita), se queda al menos PORTADA_PINTADA desde entonces.
   function esperarPortada() {
     const reducido = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const espera = Math.max(0, (reducido ? 600 : DURACION_PORTADA) - performance.now());
+    if (reducido) return new Promise((resolver) => setTimeout(resolver, Math.max(0, 600 - performance.now())));
+    const pintada = performance.getEntriesByName('first-contentful-paint')[0]?.startTime ?? performance.now();
+    const espera = Math.max(0, DURACION_PORTADA - performance.now(), PORTADA_PINTADA - (performance.now() - pintada));
     return new Promise((resolver) => setTimeout(resolver, espera));
   }
   function cerrarPortada() {

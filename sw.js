@@ -6,7 +6,7 @@
 // reutilizar sin preguntar durante los 10 minutos que permite GitHub Pages.
 // Al añadir archivos nuevos a la lista, sube el número de VERSION.
 
-const VERSION = 'otrora-v11';
+const VERSION = 'otrora-v12';
 const CACHE_FUENTES = 'otrora-fuentes';
 
 const ARCHIVOS = [
