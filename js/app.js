@@ -27,12 +27,12 @@
   }
 
   // ——— Fechas en hora de Madrid ———
-  function ahoraEnMadrid() {
+  function ahoraEnMadrid(momento = new Date()) {
     const partes = new Intl.DateTimeFormat('en-GB', {
       timeZone: ZONA_HORARIA, hourCycle: 'h23',
       year: 'numeric', month: '2-digit', day: '2-digit',
       hour: '2-digit', minute: '2-digit', second: '2-digit'
-    }).formatToParts(new Date());
+    }).formatToParts(momento);
     const p = {};
     partes.forEach(({ type, value }) => { p[type] = Number(value); });
     return { anio: p.year, mes: p.month, dia: p.day, hora: p.hour % 24, minuto: p.minute, segundo: p.second };
@@ -45,9 +45,15 @@
     return Math.max(1, Math.floor(diferencia / 86400000) + 1);
   }
 
+  // También los días de cambio de hora (23 o 25 horas): se mira qué hora marcará
+  // Madrid al cabo de los segundos calculados y se corrige la diferencia.
   function segundosHastaManana() {
-    const a = ahoraEnMadrid();
-    return 86400 - (a.hora * 3600 + a.minuto * 60 + a.segundo);
+    const ahora = Date.now();
+    const a = ahoraEnMadrid(new Date(ahora));
+    const s = 86400 - (a.hora * 3600 + a.minuto * 60 + a.segundo);
+    const luego = ahoraEnMadrid(new Date(ahora + s * 1000));
+    const pasado = luego.hora * 3600 + luego.minuto * 60 + luego.segundo;
+    return Math.max(0, luego.dia === a.dia ? s + 86400 - pasado : s - pasado);
   }
 
   function diaDePrueba() {
@@ -299,7 +305,7 @@
     clearInterval(temporizador);
     const pintar = () => {
       const resto = segundosHastaManana();
-      if (!modoPrueba && resto >= 86398) { location.reload(); return; } // ha cambiado el día
+      if (!modoPrueba && diaDeHoy() !== dia) { location.reload(); return; } // ha cambiado el día
       const h = String(Math.floor(resto / 3600)).padStart(2, '0');
       const m = String(Math.floor((resto % 3600) / 60)).padStart(2, '0');
       const s = String(resto % 60).padStart(2, '0');
