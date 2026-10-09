@@ -2,8 +2,7 @@
   'use strict';
 
   // ——— Configuración ———
-  const FECHA_INICIO = '2026-10-04';      // Fecha del «Día 1» (hora de Madrid), en formato AAAA-MM-DD
-  const ZONA_HORARIA = 'Europe/Madrid';
+  const FECHA_INICIO = '2026-10-04';      // Fecha del «Día 1» (hora local del jugador), en formato AAAA-MM-DD
   const CLAVE_ESTADO = 'otrora:estado';
   const CLAVE_BIENVENIDA = 'otrora:bienvenida';
   const ACIERTO = '⏳';
@@ -27,34 +26,20 @@
     try { localStorage.setItem(clave, JSON.stringify(valor)); } catch (e) { /* sin almacenamiento */ }
   }
 
-  // ——— Fechas en hora de Madrid ———
-  function ahoraEnMadrid(momento = new Date()) {
-    const partes = new Intl.DateTimeFormat('en-GB', {
-      timeZone: ZONA_HORARIA, hourCycle: 'h23',
-      year: 'numeric', month: '2-digit', day: '2-digit',
-      hour: '2-digit', minute: '2-digit', second: '2-digit'
-    }).formatToParts(momento);
-    const p = {};
-    partes.forEach(({ type, value }) => { p[type] = Number(value); });
-    return { anio: p.year, mes: p.month, dia: p.day, hora: p.hour % 24, minuto: p.minute, segundo: p.second };
-  }
-
+  // ——— Fechas en hora local del jugador ———
   function diaDeHoy() {
-    const a = ahoraEnMadrid();
+    const a = new Date();
     const [y, m, d] = FECHA_INICIO.split('-').map(Number);
-    const diferencia = Date.UTC(a.anio, a.mes - 1, a.dia) - Date.UTC(y, m - 1, d);
+    // Date.UTC con la fecha local: así el cambio de hora no descuadra la cuenta.
+    const diferencia = Date.UTC(a.getFullYear(), a.getMonth(), a.getDate()) - Date.UTC(y, m - 1, d);
     return Math.max(1, Math.floor(diferencia / 86400000) + 1);
   }
 
-  // También los días de cambio de hora (23 o 25 horas): se mira qué hora marcará
-  // Madrid al cabo de los segundos calculados y se corrige la diferencia.
+  // También los días de cambio de hora (23 o 25 horas).
   function segundosHastaManana() {
-    const ahora = Date.now();
-    const a = ahoraEnMadrid(new Date(ahora));
-    const s = 86400 - (a.hora * 3600 + a.minuto * 60 + a.segundo);
-    const luego = ahoraEnMadrid(new Date(ahora + s * 1000));
-    const pasado = luego.hora * 3600 + luego.minuto * 60 + luego.segundo;
-    return Math.max(0, luego.dia === a.dia ? s + 86400 - pasado : s - pasado);
+    const ahora = new Date();
+    const manana = new Date(ahora.getFullYear(), ahora.getMonth(), ahora.getDate() + 1);
+    return Math.max(0, Math.ceil((manana - ahora) / 1000));
   }
 
   function diaDePrueba() {
