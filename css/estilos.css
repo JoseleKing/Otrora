@@ -392,9 +392,9 @@ a.boton { text-align: center; text-decoration: none; }
 .pantalla-final #boton-repetir { margin-top: 24px; }
 
 /* Con la franja «☜ Regresar al Almanaque» arriba, el botón de ayuda baja a su altura. */
-#almanaque-volver { padding-right: 68px !important; }
-#almanaque-volver ~ .boton-ayuda { top: max(2px, calc(env(safe-area-inset-top) - 6px)); }
-#almanaque-volver ~ main .cabecera-juego { padding-right: 0; }
+#almanaque-franja { padding-right: 68px !important; }
+#almanaque-franja ~ .boton-ayuda { top: max(2px, calc(env(safe-area-inset-top) - 6px)); }
+#almanaque-franja ~ main .cabecera-juego { padding-right: 0; }
 
 /* ——— Hoja de bienvenida ——— */
 .hoja {
